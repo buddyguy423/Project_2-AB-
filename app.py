@@ -36,17 +36,17 @@ def viz2():
 def emoji_char_data():
     conn = sqlite3.connect("db/fortune500.db")
     cur = conn.cursor()
-    cur.execute("SELECT * from fortune1000_table limit 500")
+    cur.execute("SELECT * from fortune500_table;")
     results = cur.fetchall()
 	
     # Create lists from the query results
-    emoji_char = [result[0] for result in results]
-    scores = [int(result[1]) for result in results]
+    names = [result[2] for result in results]
+    profits = [result[4] for result in results]
 
     # Generate the plot trace
     trace = {
-        "x": emoji_char,
-        "y": scores,
+       "x": names,
+        "y": profits,
         "type": "bar"
     }
 #we need to return json data here for D3 to pick up 
@@ -61,19 +61,19 @@ def viz3():
 def emoji_id_data():
     conn = sqlite3.connect("db/fortune500.db")
     cur = conn.cursor()
-    cur.execute("SELECT emoji_id, score from emoji order by score DESC limit 10")
+    cur.execute("describe fortune500_table;")
     results = cur.fetchall()
-    df = pd.DataFrame(results, columns=['emoji_id', 'score'])
+    #df = pd.DataFrame(results, columns=['emoji_id', 'score'])
 
 
     # Format the data for Plotly
-    trace = {
-        "x": df["emoji_id"].values.tolist(),
-        "y": df["score"].values.tolist(),
-        "type": "bar"
-    }
+    #trace = {
+    #    "x": df["emoji_id"].values.tolist(),
+    #    "y": df["score"].values.tolist(),
+    #    "type": "bar"
+    #}
 	
-    return jsonify(trace)
+    return jsonify(results)
 
 
 
