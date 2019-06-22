@@ -34,7 +34,7 @@ def viz2():
 
 @app.route("/viz2data")
 def emoji_char_data():
-    conn = sqlite3.connect("db/fortune.db")
+    conn = sqlite3.connect("db/fortune500.db")
     cur = conn.cursor()
     cur.execute("SELECT * from fortune1000_table limit 500")
     results = cur.fetchall()
@@ -59,7 +59,7 @@ def viz3():
 
 @app.route("/viz3data")
 def emoji_id_data():
-    conn = sqlite3.connect("db/fortune.db")
+    conn = sqlite3.connect("db/fortune500.db")
     cur = conn.cursor()
     cur.execute("SELECT emoji_id, score from emoji order by score DESC limit 10")
     results = cur.fetchall()
