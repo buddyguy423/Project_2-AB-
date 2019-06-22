@@ -61,7 +61,7 @@ def viz3():
 def emoji_id_data():
     conn = sqlite3.connect("db/fortune500.db")
     cur = conn.cursor()
-    cur.execute("describe fortune500_table;")
+    cur.execute("SELECT * from fortune500_table;")
     results = cur.fetchall()
     #df = pd.DataFrame(results, columns=['emoji_id', 'score'])
 
