@@ -27,10 +27,14 @@ def home():
     """Render Home Page."""
     return render_template("home.html")
 
+@app.route("/viz2")
+def viz2():    
+    return render_template('map2.html')
 
-@app.route("/emoji_char")
+
+@app.route("/viz2data")
 def emoji_char_data():
-    conn = sqlite3.connect("db/emoji.sqlite")
+    conn = sqlite3.connect("db/fortune.db")
     cur = conn.cursor()
     cur.execute("SELECT * from fortune1000_table limit 500")
     results = cur.fetchall()
@@ -45,13 +49,17 @@ def emoji_char_data():
         "y": scores,
         "type": "bar"
     }
+#we need to return json data here for D3 to pick up 
+    return jsonify(trace)
 
-    return jsonify(results)
 
+@app.route("/viz3")
+def viz3():
+    return render_template('map3.html')
 
-@app.route("/emoji_id")
+@app.route("/viz3data")
 def emoji_id_data():
-    conn = sqlite3.connect("db/emoji.sqlite")
+    conn = sqlite3.connect("db/fortune.db")
     cur = conn.cursor()
     cur.execute("SELECT emoji_id, score from emoji order by score DESC limit 10")
     results = cur.fetchall()
