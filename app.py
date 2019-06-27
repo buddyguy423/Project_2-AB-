@@ -25,7 +25,7 @@ conn = sqlite3.connect("db/fortune.db")
 @app.route("/")
 def home():
     """Render Home Page."""
-    return render_template("home.html")
+    return render_template("index.html")
 
 @app.route("/viz2")
 def viz2():    
@@ -75,8 +75,25 @@ def emoji_id_data():
 	
     return jsonify(results)
 
+@app.route("/revenues_by_sector")
+def rev_industry_data():
+    conn = sqlite3.connect("db/fortune500_all_ints.db")
+    cur = conn.cursor()
+    cur.execute("SELECT Sector, SUM(Revenues) FROM MG_500_cleaned_ints GROUP BY Sector;")
+    results = cur.fetchall()
 
+	
+    return jsonify(results)
 
+@app.route("/profits_by_sector")
+def prof_industry_data():
+    conn = sqlite3.connect("db/fortune500_all_ints.db")
+    cur = conn.cursor()
+    cur.execute("SELECT Sector, SUM(Profits) FROM MG_500_cleaned_ints GROUP BY Sector;")
+    results = cur.fetchall()
+
+	
+    return jsonify(results)
 
 if __name__ == '__main__':
     app.run(debug=True)
