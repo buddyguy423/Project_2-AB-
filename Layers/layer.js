@@ -10,7 +10,8 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 	attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
 	maxZoom: 16,
 	id: "mapbox.streets",
-  	accessToken: API_KEY
+    accessToken: API_KEY
+  layers: [lightmap, revenue, profit]
 }).addTo(map);
 
 var mapBounds = L.latLngBounds([
@@ -19,10 +20,22 @@ var mapBounds = L.latLngBounds([
                 ]);
 map.fitBounds(mapBounds);
 
-data = '[{name" : "Walmart", "Revenue" : "$500,343", "profit" : "$9,862.00 ", "industry" : "Retailing", "business" : "General Merchandising", "lat" : "36.372853799999994", "long", "-94.2088172" }]'
 
-var mydata = JSON.parse(data);
-alert(mydata[0].name);
-alert(mydata[0].age);
-alert(mydata[1].name);
-alert(mydata[1].age);
+ // Create an overlayMaps object to hold the bikeStations layer
+ var overlayMaps = {
+  "Profit": Profit
+  "Revenue": Revenue
+};
+
+
+// Looping through all the entries from the JSON data
+for(var i = 0; i < json.length; i++) {
+  // Current object
+  var obj = json[i];
+
+  // Adding a new marker for the object
+  var marker = new google.maps.Marker({
+    position: new google.maps.LatLng(obj.latitude,obj.longitude),
+      map: map,
+    title: obj.title // this works, giving the marker a title with the correct title
+  });
