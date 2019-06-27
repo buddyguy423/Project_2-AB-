@@ -1,4 +1,5 @@
-﻿1,3,ALABAMA
+﻿State Code,Num_In_Statees,State
+1,3,ALABAMA
 5,8,ARKANSAS
 4,17,ARIZONA
 6,118,CALIFORNIA
@@ -43,8 +44,3 @@
 50,1,VERMONT
 53,20,WASHINGTON
 55,22,WISCONSIN
-,,
-,,
-,,
-,,
-,,
