@@ -25,7 +25,7 @@ conn = sqlite3.connect("db/fortune.db")
 @app.route("/")
 def home():
     """Render Home Page."""
-    return render_template("home.html")
+    return render_template("index.html")
 
 @app.route("/viz2")
 def viz2():    
