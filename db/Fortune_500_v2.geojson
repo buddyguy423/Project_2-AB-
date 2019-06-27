@@ -1,0 +1,6505 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.2088172,36.3728538 ]
+    },
+    "properties": {
+    "rank":1,
+    "title":"Walmart",
+    "Revenues ($M)":500343,
+    "Profits ($M)":"9862"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.9488945,32.8140177 ]
+    },
+    "properties": {
+    "rank":2,
+    "title":"Exxon Mobil",
+    "Revenues ($M)":244363,
+    "Profits ($M)":"19710"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9345034,41.2565369 ]
+    },
+    "properties": {
+    "rank":3,
+    "title":"Berkshire Hathaway",
+    "Revenues ($M)":242137,
+    "Profits ($M)":"44940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0321823,37.3229978 ]
+    },
+    "properties": {
+    "rank":4,
+    "title":"Apple",
+    "Revenues ($M)":229234,
+    "Profits ($M)":"48351"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.4687489,44.9211836 ]
+    },
+    "properties": {
+    "rank":5,
+    "title":"UnitedHealth Group",
+    "Revenues ($M)":201159,
+    "Profits ($M)":"10558"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4194155,37.7749295 ]
+    },
+    "properties": {
+    "rank":6,
+    "title":"McKesson",
+    "Revenues ($M)":198533,
+    "Profits ($M)":"5070"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5147839,42.0028761 ]
+    },
+    "properties": {
+    "rank":7,
+    "title":"CVS Health",
+    "Revenues ($M)":184765,
+    "Profits ($M)":"6622"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3320708,47.6062095 ]
+    },
+    "properties": {
+    "rank":8,
+    "title":"Amazon.com",
+    "Revenues ($M)":177866,
+    "Profits ($M)":"3033"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7969879,32.7766642 ]
+    },
+    "properties": {
+    "rank":9,
+    "title":"AT&T",
+    "Revenues ($M)":160546,
+    "Profits ($M)":"29450"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0457538,42.331427 ]
+    },
+    "properties": {
+    "rank":10,
+    "title":"General Motors",
+    "Revenues ($M)":157311,
+    "Profits ($M)":"-3864"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1763145,42.3222599 ]
+    },
+    "properties": {
+    "rank":11,
+    "title":"Ford Motor",
+    "Revenues ($M)":156776,
+    "Profits ($M)":"7602"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4590816,40.0756627 ]
+    },
+    "properties": {
+    "rank":12,
+    "title":"AmerisourceBergen",
+    "Revenues ($M)":153144,
+    "Profits ($M)":"364.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9780153,37.7799273 ]
+    },
+    "properties": {
+    "rank":13,
+    "title":"Chevron",
+    "Revenues ($M)":134533,
+    "Profits ($M)":"9195"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1140771,40.0992294 ]
+    },
+    "properties": {
+    "rank":14,
+    "title":"Cardinal Health",
+    "Revenues ($M)":129976,
+    "Profits ($M)":"1288"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0326191,47.5301011 ]
+    },
+    "properties": {
+    "rank":15,
+    "title":"Costco",
+    "Revenues ($M)":129025,
+    "Profits ($M)":"2679"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":16,
+    "title":"Verizon",
+    "Revenues ($M)":126034,
+    "Profits ($M)":"30101"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5120196,39.1031182 ]
+    },
+    "properties": {
+    "rank":17,
+    "title":"Kroger",
+    "Revenues ($M)":122662,
+    "Profits ($M)":"1907"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0588801,42.3600825 ]
+    },
+    "properties": {
+    "rank":18,
+    "title":"General Electric",
+    "Revenues ($M)":122274,
+    "Profits ($M)":"-5786"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8445119,42.1711365 ]
+    },
+    "properties": {
+    "rank":19,
+    "title":"Walgreens Boots Alliance",
+    "Revenues ($M)":118214,
+    "Profits ($M)":"4078"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":20,
+    "title":"JPMorgan Chase",
+    "Revenues ($M)":113899,
+    "Profits ($M)":"24441"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.7401385,47.7510741 ]
+    },
+    "properties": {
+    "rank":21,
+    "title":"Fannie Mae",
+    "Revenues ($M)":112394,
+    "Profits ($M)":"2463"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0838511,37.3860517 ]
+    },
+    "properties": {
+    "rank":22,
+    "title":"Alphabet",
+    "Revenues ($M)":110855,
+    "Profits ($M)":"12662"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "rank":23,
+    "title":"Home Depot",
+    "Revenues ($M)":100904,
+    "Profits ($M)":"8630"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8431267,35.2270869 ]
+    },
+    "properties": {
+    "rank":24,
+    "title":"Bank of America Corp.",
+    "Revenues ($M)":100264,
+    "Profits ($M)":"18232"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1994042,38.6270025 ]
+    },
+    "properties": {
+    "rank":25,
+    "title":"Express Scripts Holding",
+    "Revenues ($M)":100065,
+    "Profits ($M)":"4517.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4194155,37.7749295 ]
+    },
+    "properties": {
+    "rank":26,
+    "title":"Wells Fargo",
+    "Revenues ($M)":97741,
+    "Profits ($M)":"22183"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "rank":27,
+    "title":"Boeing",
+    "Revenues ($M)":93392,
+    "Profits ($M)":"8197"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":28,
+    "title":"Phillips 66",
+    "Revenues ($M)":91568,
+    "Profits ($M)":"5106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.158068,39.768403 ]
+    },
+    "properties": {
+    "rank":29,
+    "title":"Anthem",
+    "Revenues ($M)":90040,
+    "Profits ($M)":"3842.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.121512,47.6739881 ]
+    },
+    "properties": {
+    "rank":30,
+    "title":"Microsoft",
+    "Revenues ($M)":89950,
+    "Profits ($M)":"21204"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4936282,29.4241219 ]
+    },
+    "properties": {
+    "rank":31,
+    "title":"Valero Energy",
+    "Revenues ($M)":88407,
+    "Profits ($M)":"4065"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":32,
+    "title":"Citigroup",
+    "Revenues ($M)":87966,
+    "Profits ($M)":"-6798"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1652215,39.9525839 ]
+    },
+    "properties": {
+    "rank":33,
+    "title":"Comcast",
+    "Revenues ($M)":84526,
+    "Profits ($M)":"22714"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7140195,41.1264849 ]
+    },
+    "properties": {
+    "rank":34,
+    "title":"IBM",
+    "Revenues ($M)":79139,
+    "Profits ($M)":"5753"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.678896,30.5082551 ]
+    },
+    "properties": {
+    "rank":35,
+    "title":"Dell Technologies",
+    "Revenues ($M)":78660,
+    "Profits ($M)":"-3728"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.9936873,40.4842027 ]
+    },
+    "properties": {
+    "rank":36,
+    "title":"State Farm Insurance Cos.",
+    "Revenues ($M)":78331,
+    "Profits ($M)":"2206.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.4518188,40.4862157 ]
+    },
+    "properties": {
+    "rank":37,
+    "title":"Johnson & Johnson",
+    "Revenues ($M)":76450,
+    "Profits ($M)":"1300"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1772604,38.9338676 ]
+    },
+    "properties": {
+    "rank":38,
+    "title":"Freddie Mac",
+    "Revenues ($M)":74676,
+    "Profits ($M)":"5625"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2650108,44.977753 ]
+    },
+    "properties": {
+    "rank":39,
+    "title":"Target",
+    "Revenues ($M)":71879,
+    "Profits ($M)":"2934"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8100724,35.5848596 ]
+    },
+    "properties": {
+    "rank":40,
+    "title":"Lowes",
+    "Revenues ($M)":68619,
+    "Profits ($M)":"3447"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6499321,41.04422 ]
+    },
+    "properties": {
+    "rank":41,
+    "title":"Marathon Petroleum",
+    "Revenues ($M)":67610,
+    "Profits ($M)":"3432"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5120196,39.1031182 ]
+    },
+    "properties": {
+    "rank":42,
+    "title":"Procter & Gamble",
+    "Revenues ($M)":66217,
+    "Profits ($M)":"15326"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":43,
+    "title":"MetLife",
+    "Revenues ($M)":66153,
+    "Profits ($M)":"4010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "rank":44,
+    "title":"UPS",
+    "Revenues ($M)":65872,
+    "Profits ($M)":"4910"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7144477,41.0400135 ]
+    },
+    "properties": {
+    "rank":45,
+    "title":"PepsiCo",
+    "Revenues ($M)":63525,
+    "Profits ($M)":"4857"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9552356,37.3541079 ]
+    },
+    "properties": {
+    "rank":46,
+    "title":"Intel",
+    "Revenues ($M)":62761,
+    "Profits ($M)":"9601"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.232105,43.623574 ]
+    },
+    "properties": {
+    "rank":47,
+    "title":"DowDuPont",
+    "Revenues ($M)":62683,
+    "Profits ($M)":"1460"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "rank":48,
+    "title":"Archer Daniels Midland",
+    "Revenues ($M)":60828,
+    "Profits ($M)":"1595"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6733723,41.7658043 ]
+    },
+    "properties": {
+    "rank":49,
+    "title":"Aetna",
+    "Revenues ($M)":60535,
+    "Profits ($M)":"1904"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0489801,35.1495343 ]
+    },
+    "properties": {
+    "rank":50,
+    "title":"FedEx",
+    "Revenues ($M)":60319,
+    "Profits ($M)":"2997"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.795027,41.7360305 ]
+    },
+    "properties": {
+    "rank":51,
+    "title":"United Technologies",
+    "Revenues ($M)":59837,
+    "Profits ($M)":"4552"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1723667,40.735657 ]
+    },
+    "properties": {
+    "rank":52,
+    "title":"Prudential Financial",
+    "Revenues ($M)":59689,
+    "Profits ($M)":"7863"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.2023137,43.6150186 ]
+    },
+    "properties": {
+    "rank":53,
+    "title":"Albertsons Cos.",
+    "Revenues ($M)":59678,
+    "Profits ($M)":"-373.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":54,
+    "title":"Sysco",
+    "Revenues ($M)":55371,
+    "Profits ($M)":"1142.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3089661,34.1808392 ]
+    },
+    "properties": {
+    "rank":55,
+    "title":"Disney",
+    "Revenues ($M)":55137,
+    "Profits ($M)":"8980"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7584557,38.2526647 ]
+    },
+    "properties": {
+    "rank":56,
+    "title":"Humana",
+    "Revenues ($M)":53767,
+    "Profits ($M)":"2448"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":57,
+    "title":"Pfizer",
+    "Revenues ($M)":52546,
+    "Profits ($M)":"21308"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1430195,37.4418834 ]
+    },
+    "properties": {
+    "rank":58,
+    "title":"HP",
+    "Revenues ($M)":52056,
+    "Profits ($M)":"2526"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0947092,38.984652 ]
+    },
+    "properties": {
+    "rank":59,
+    "title":"Lockheed Martin",
+    "Revenues ($M)":51048,
+    "Profits ($M)":"2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":60,
+    "title":"AIG",
+    "Revenues ($M)":49520,
+    "Profits ($M)":"-6084"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1994042,38.6270025 ]
+    },
+    "properties": {
+    "rank":61,
+    "title":"Centene",
+    "Revenues ($M)":48572,
+    "Profits ($M)":"828"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8863286,37.3382082 ]
+    },
+    "properties": {
+    "rank":62,
+    "title":"Cisco Systems",
+    "Revenues ($M)":48005,
+    "Profits ($M)":"9609"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7816016,36.1626638 ]
+    },
+    "properties": {
+    "rank":63,
+    "title":"HCA Healthcare",
+    "Revenues ($M)":47653,
+    "Profits ($M)":"2216"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7969879,32.7766642 ]
+    },
+    "properties": {
+    "rank":64,
+    "title":"Energy Transfer Equity",
+    "Revenues ($M)":47487,
+    "Profits ($M)":"954"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8445119,42.1711365 ]
+    },
+    "properties": {
+    "rank":65,
+    "title":"Caterpillar",
+    "Revenues ($M)":45462,
+    "Profits ($M)":"754"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9987942,39.9611755 ]
+    },
+    "properties": {
+    "rank":66,
+    "title":"Nationwide",
+    "Revenues ($M)":43940,
+    "Profits ($M)":"246.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":67,
+    "title":"Morgan Stanley",
+    "Revenues ($M)":43642,
+    "Profits ($M)":"6111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0588801,42.3600825 ]
+    },
+    "properties": {
+    "rank":68,
+    "title":"Liberty Mutual Insurance Group",
+    "Revenues ($M)":42687,
+    "Profits ($M)":"17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":69,
+    "title":"New York Life Insurance",
+    "Revenues ($M)":42296,
+    "Profits ($M)":"1866.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":70,
+    "title":"Goldman Sachs Group",
+    "Revenues ($M)":42254,
+    "Profits ($M)":"4286"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3307658,32.7554883 ]
+    },
+    "properties": {
+    "rank":71,
+    "title":"American Airlines Group",
+    "Revenues ($M)":42207,
+    "Profits ($M)":"1919"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2830021,44.8832982 ]
+    },
+    "properties": {
+    "rank":72,
+    "title":"Best Buy",
+    "Revenues ($M)":42151,
+    "Profits ($M)":"1000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.7300945,41.826488 ]
+    },
+    "properties": {
+    "rank":73,
+    "title":"Cigna",
+    "Revenues ($M)":41616,
+    "Profits ($M)":"2237"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5387341,41.0534302 ]
+    },
+    "properties": {
+    "rank":74,
+    "title":"Charter Communications",
+    "Revenues ($M)":41581,
+    "Profits ($M)":"9895"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "rank":75,
+    "title":"Delta Air Lines",
+    "Revenues ($M)":41244,
+    "Profits ($M)":"3577"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1817252,37.4529598 ]
+    },
+    "properties": {
+    "rank":76,
+    "title":"Facebook",
+    "Revenues ($M)":40653,
+    "Profits ($M)":"15934"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.4818698,40.8395922 ]
+    },
+    "properties": {
+    "rank":77,
+    "title":"Honeywell International",
+    "Revenues ($M)":40534,
+    "Profits ($M)":"1655"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2907032,40.6764911 ]
+    },
+    "properties": {
+    "rank":78,
+    "title":"Merck",
+    "Revenues ($M)":40122,
+    "Profits ($M)":"2394"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8289548,42.1275267 ]
+    },
+    "properties": {
+    "rank":79,
+    "title":"Allstate",
+    "Revenues ($M)":38524,
+    "Profits ($M)":"3189"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.1288141,36.1867442 ]
+    },
+    "properties": {
+    "rank":80,
+    "title":"Tyson Foods",
+    "Revenues ($M)":38260,
+    "Profits ($M)":"1774"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "rank":81,
+    "title":"United Continental Holdings",
+    "Revenues ($M)":37736,
+    "Profits ($M)":"2131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2363548,37.4852152 ]
+    },
+    "properties": {
+    "rank":82,
+    "title":"Oracle",
+    "Revenues ($M)":37728,
+    "Profits ($M)":"9335"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.8001026,27.9658533 ]
+    },
+    "properties": {
+    "rank":83,
+    "title":"Tech Data",
+    "Revenues ($M)":36775,
+    "Profits ($M)":"116.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":84,
+    "title":"TIAA",
+    "Revenues ($M)":36025,
+    "Profits ($M)":"1049.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4161565,42.279286 ]
+    },
+    "properties": {
+    "rank":85,
+    "title":"TJX",
+    "Revenues ($M)":35865,
+    "Profits ($M)":"2607.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":86,
+    "title":"American Express",
+    "Revenues ($M)":35583,
+    "Profits ($M)":"2736"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "rank":87,
+    "title":"Coca-Cola",
+    "Revenues ($M)":35410,
+    "Profits ($M)":"1248"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9498042,28.0394654 ]
+    },
+    "properties": {
+    "rank":88,
+    "title":"Publix Super Markets",
+    "Revenues ($M)":34837,
+    "Profits ($M)":"2291.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8013332,45.4887993 ]
+    },
+    "properties": {
+    "rank":89,
+    "title":"Nike",
+    "Revenues ($M)":34350,
+    "Profits ($M)":"4240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4936282,29.4241219 ]
+    },
+    "properties": {
+    "rank":90,
+    "title":"Andeavor",
+    "Revenues ($M)":34204,
+    "Profits ($M)":"1528"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1917902,25.7616798 ]
+    },
+    "properties": {
+    "rank":91,
+    "title":"World Fuel Services",
+    "Revenues ($M)":33696,
+    "Profits ($M)":"-170.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "rank":92,
+    "title":"Exelon",
+    "Revenues ($M)":33531,
+    "Profits ($M)":"3770"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.589811,42.1014831 ]
+    },
+    "properties": {
+    "rank":93,
+    "title":"Massachusetts Mutual Life Insurance",
+    "Revenues ($M)":33495,
+    "Profits ($M)":"513"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9199742,40.2398118 ]
+    },
+    "properties": {
+    "rank":94,
+    "title":"Rite Aid",
+    "Revenues ($M)":32845,
+    "Profits ($M)":"4.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":95,
+    "title":"ConocoPhillips",
+    "Revenues ($M)":32584,
+    "Profits ($M)":"-855"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0427153,44.8480218 ]
+    },
+    "properties": {
+    "rank":96,
+    "title":"CHS",
+    "Revenues ($M)":31935,
+    "Profits ($M)":"127.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0899578,44.9537029 ]
+    },
+    "properties": {
+    "rank":97,
+    "title":"3M",
+    "Revenues ($M)":31657,
+    "Profits ($M)":"4858"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":98,
+    "title":"Time Warner",
+    "Revenues ($M)":31271,
+    "Profits ($M)":"5247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1710914,38.882334 ]
+    },
+    "properties": {
+    "rank":99,
+    "title":"General Dynamics",
+    "Revenues ($M)":30973,
+    "Profits ($M)":"2912"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4936282,29.4241219 ]
+    },
+    "properties": {
+    "rank":100,
+    "title":"USAA",
+    "Revenues ($M)":30016,
+    "Profits ($M)":"2421.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1772604,38.9338676 ]
+    },
+    "properties": {
+    "rank":101,
+    "title":"Capital One Financial",
+    "Revenues ($M)":29999,
+    "Profits ($M)":"1982"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.5151342,41.5067003 ]
+    },
+    "properties": {
+    "rank":102,
+    "title":"Deere",
+    "Revenues ($M)":29738,
+    "Profits ($M)":"2159.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":103,
+    "title":"INTL FCStone",
+    "Revenues ($M)":29424,
+    "Profits ($M)":"6.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9064736,43.0389025 ]
+    },
+    "properties": {
+    "rank":104,
+    "title":"Northwestern Mutual",
+    "Revenues ($M)":29331,
+    "Profits ($M)":"1017"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":105,
+    "title":"Enterprise Products Partners",
+    "Revenues ($M)":29242,
+    "Profits ($M)":"2799.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":106,
+    "title":"Travelers Cos.",
+    "Revenues ($M)":28902,
+    "Profits ($M)":"2056"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1430195,37.4418834 ]
+    },
+    "properties": {
+    "rank":107,
+    "title":"Hewlett Packard Enterprise",
+    "Revenues ($M)":28871,
+    "Profits ($M)":"344"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":108,
+    "title":"Philip Morris International",
+    "Revenues ($M)":28748,
+    "Profits ($M)":"6035"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":109,
+    "title":"Twenty-First Century Fox",
+    "Revenues ($M)":28500,
+    "Profits ($M)":"2952"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8411818,42.325578 ]
+    },
+    "properties": {
+    "rank":110,
+    "title":"AbbVie",
+    "Revenues ($M)":28216,
+    "Profits ($M)":"5309"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8960712,42.304505 ]
+    },
+    "properties": {
+    "rank":111,
+    "title":"Abbott Laboratories",
+    "Revenues ($M)":27390,
+    "Profits ($M)":"477"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4392828,41.5519952 ]
+    },
+    "properties": {
+    "rank":112,
+    "title":"Progressive",
+    "Revenues ($M)":26839,
+    "Profits ($M)":"1592.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.8771726,39.5807452 ]
+    },
+    "properties": {
+    "rank":113,
+    "title":"Arrow Electronics",
+    "Revenues ($M)":26813,
+    "Profits ($M)":"402"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9958864,40.4406248 ]
+    },
+    "properties": {
+    "rank":114,
+    "title":"Kraft Heinz",
+    "Revenues ($M)":26232,
+    "Profits ($M)":"10999"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":115,
+    "title":"Plains GP Holdings",
+    "Revenues ($M)":26223,
+    "Profits ($M)":"-731"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2710788,37.5585465 ]
+    },
+    "properties": {
+    "rank":116,
+    "title":"Gilead Sciences",
+    "Revenues ($M)":26107,
+    "Profits ($M)":"4628"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8445119,42.1711365 ]
+    },
+    "properties": {
+    "rank":117,
+    "title":"Mondelez International",
+    "Revenues ($M)":25896,
+    "Profits ($M)":"2922"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1710914,38.882334 ]
+    },
+    "properties": {
+    "rank":118,
+    "title":"Northrop Grumman",
+    "Revenues ($M)":25803,
+    "Profits ($M)":"2015"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2356113,42.3764852 ]
+    },
+    "properties": {
+    "rank":119,
+    "title":"Raytheon",
+    "Revenues ($M)":25348,
+    "Profits ($M)":"2024"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5120196,39.1031182 ]
+    },
+    "properties": {
+    "rank":120,
+    "title":"Macys",
+    "Revenues ($M)":24837,
+    "Profits ($M)":"1547"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8721602,41.9867507 ]
+    },
+    "properties": {
+    "rank":121,
+    "title":"US Foods Holding",
+    "Revenues ($M)":24147,
+    "Profits ($M)":"444.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2650108,44.977753 ]
+    },
+    "properties": {
+    "rank":122,
+    "title":"U.S. Bancorp",
+    "Revenues ($M)":23996,
+    "Profits ($M)":"6218"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7133302,36.3231066 ]
+    },
+    "properties": {
+    "rank":123,
+    "title":"Dollar General",
+    "Revenues ($M)":23471,
+    "Profits ($M)":"1539"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0489801,35.1495343 ]
+    },
+    "properties": {
+    "rank":124,
+    "title":"International Paper",
+    "Revenues ($M)":23302,
+    "Profits ($M)":"2144"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8431267,35.2270869 ]
+    },
+    "properties": {
+    "rank":125,
+    "title":"Duke Energy",
+    "Revenues ($M)":23189,
+    "Profits ($M)":"3059"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "rank":126,
+    "title":"Southern",
+    "Revenues ($M)":23031,
+    "Profits ($M)":"842"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0947092,38.984652 ]
+    },
+    "properties": {
+    "rank":127,
+    "title":"Marriott International",
+    "Revenues ($M)":22894,
+    "Profits ($M)":"1372"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0740373,33.4483771 ]
+    },
+    "properties": {
+    "rank":128,
+    "title":"Avnet",
+    "Revenues ($M)":22872,
+    "Profits ($M)":"525.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.158068,39.768403 ]
+    },
+    "properties": {
+    "rank":129,
+    "title":"Eli Lilly",
+    "Revenues ($M)":22871,
+    "Profits ($M)":"-204.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.8375937,34.1705609 ]
+    },
+    "properties": {
+    "rank":130,
+    "title":"Amgen",
+    "Revenues ($M)":22849,
+    "Profits ($M)":"1979"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9535534,41.8397865 ]
+    },
+    "properties": {
+    "rank":131,
+    "title":"McDonalds",
+    "Revenues ($M)":22820,
+    "Profits ($M)":"5192.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3320708,47.6062095 ]
+    },
+    "properties": {
+    "rank":132,
+    "title":"Starbucks",
+    "Revenues ($M)":22387,
+    "Profits ($M)":"2884.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1610838,32.715738 ]
+    },
+    "properties": {
+    "rank":133,
+    "title":"Qualcomm",
+    "Revenues ($M)":22291,
+    "Profits ($M)":"2466"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.2874927,36.7682088 ]
+    },
+    "properties": {
+    "rank":134,
+    "title":"Dollar Tree",
+    "Revenues ($M)":22246,
+    "Profits ($M)":"1714.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.4173877,40.8652865 ]
+    },
+    "properties": {
+    "rank":135,
+    "title":"PBF Energy",
+    "Revenues ($M)":21787,
+    "Profits ($M)":"415.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":136,
+    "title":"Icahn Enterprises",
+    "Revenues ($M)":21744,
+    "Profits ($M)":"2430"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9877094,32.4609764 ]
+    },
+    "properties": {
+    "rank":137,
+    "title":"Aflac",
+    "Revenues ($M)":21667,
+    "Profits ($M)":"4604"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1373174,26.1224386 ]
+    },
+    "properties": {
+    "rank":138,
+    "title":"AutoNation",
+    "Revenues ($M)":21535,
+    "Profits ($M)":"434.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2454883,42.583645 ]
+    },
+    "properties": {
+    "rank":139,
+    "title":"Penske Automotive Group",
+    "Revenues ($M)":21389,
+    "Profits ($M)":"613.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4541894,42.1167065 ]
+    },
+    "properties": {
+    "rank":140,
+    "title":"Whirlpool",
+    "Revenues ($M)":21253,
+    "Profits ($M)":"350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9345034,41.2565369 ]
+    },
+    "properties": {
+    "rank":141,
+    "title":"Union Pacific",
+    "Revenues ($M)":21240,
+    "Profits ($M)":"10712"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7969879,32.7766642 ]
+    },
+    "properties": {
+    "rank":142,
+    "title":"Southwest Airlines",
+    "Revenues ($M)":21171,
+    "Profits ($M)":"3488"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9064736,43.0389025 ]
+    },
+    "properties": {
+    "rank":143,
+    "title":"ManpowerGroup",
+    "Revenues ($M)":21034,
+    "Profits ($M)":"545.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2356113,42.3764852 ]
+    },
+    "properties": {
+    "rank":144,
+    "title":"Thermo Fisher Scientific",
+    "Revenues ($M)":20918,
+    "Profits ($M)":"2225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":145,
+    "title":"Bristol-Myers Squibb",
+    "Revenues ($M)":20776,
+    "Profits ($M)":"1007"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":146,
+    "title":"Halliburton",
+    "Revenues ($M)":20620,
+    "Profits ($M)":"-463"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7969879,32.7766642 ]
+    },
+    "properties": {
+    "rank":147,
+    "title":"Tenet Healthcare",
+    "Revenues ($M)":20613,
+    "Profits ($M)":"-704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2218731,42.4733688 ]
+    },
+    "properties": {
+    "rank":148,
+    "title":"Lear",
+    "Revenues ($M)":20467,
+    "Profits ($M)":"1313.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9213796,39.2014404 ]
+    },
+    "properties": {
+    "rank":149,
+    "title":"Cummins",
+    "Revenues ($M)":20428,
+    "Profits ($M)":"999"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.2023137,43.6150186 ]
+    },
+    "properties": {
+    "rank":150,
+    "title":"Micron Technology",
+    "Revenues ($M)":20322,
+    "Profits ($M)":"5089"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8431267,35.2270869 ]
+    },
+    "properties": {
+    "rank":151,
+    "title":"Nucor",
+    "Revenues ($M)":20252,
+    "Profits ($M)":"1318.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1937395,33.7700504 ]
+    },
+    "properties": {
+    "rank":152,
+    "title":"Molina Healthcare",
+    "Revenues ($M)":19883,
+    "Profits ($M)":"-512"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.9488945,32.8140177 ]
+    },
+    "properties": {
+    "rank":153,
+    "title":"Fluor",
+    "Revenues ($M)":19521,
+    "Profits ($M)":"191.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4360481,37.5407246 ]
+    },
+    "properties": {
+    "rank":154,
+    "title":"Altria Group",
+    "Revenues ($M)":19494,
+    "Profits ($M)":"10222"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2015159,47.6101497 ]
+    },
+    "properties": {
+    "rank":155,
+    "title":"Paccar",
+    "Revenues ($M)":19456,
+    "Profits ($M)":"1675.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6733723,41.7658043 ]
+    },
+    "properties": {
+    "rank":156,
+    "title":"Hartford Financial Services",
+    "Revenues ($M)":19228,
+    "Profits ($M)":"-3131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.1173132,43.1788967 ]
+    },
+    "properties": {
+    "rank":157,
+    "title":"Kohls",
+    "Revenues ($M)":19095,
+    "Profits ($M)":"859"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8863286,37.3382082 ]
+    },
+    "properties": {
+    "rank":158,
+    "title":"Western Digital",
+    "Revenues ($M)":19093,
+    "Profits ($M)":"397"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6402915,27.7676008 ]
+    },
+    "properties": {
+    "rank":159,
+    "title":"Jabil",
+    "Revenues ($M)":19063.1,
+    "Profits ($M)":"129.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.8688899,35.9250637 ]
+    },
+    "properties": {
+    "rank":160,
+    "title":"Community Health Systems",
+    "Revenues ($M)":18477,
+    "Profits ($M)":"-2459"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4194155,37.7749295 ]
+    },
+    "properties": {
+    "rank":161,
+    "title":"Visa",
+    "Revenues ($M)":18358,
+    "Profits ($M)":"6699"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.7401385,47.7510741 ]
+    },
+    "properties": {
+    "rank":162,
+    "title":"Danaher",
+    "Revenues ($M)":18330,
+    "Profits ($M)":"2492.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.9488945,32.8140177 ]
+    },
+    "properties": {
+    "rank":163,
+    "title":"Kimberly-Clark",
+    "Revenues ($M)":18259,
+    "Profits ($M)":"2278"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2436849,34.0522342 ]
+    },
+    "properties": {
+    "rank":164,
+    "title":"AECOM",
+    "Revenues ($M)":18203,
+    "Profits ($M)":"339.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9958864,40.4406248 ]
+    },
+    "properties": {
+    "rank":165,
+    "title":"PNC Financial Services",
+    "Revenues ($M)":18035,
+    "Profits ($M)":"5338"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1193012,32.5093109 ]
+    },
+    "properties": {
+    "rank":166,
+    "title":"CenturyLink",
+    "Revenues ($M)":17656,
+    "Profits ($M)":"1389"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0533743,26.8797819 ]
+    },
+    "properties": {
+    "rank":167,
+    "title":"NextEra Energy",
+    "Revenues ($M)":17195,
+    "Profits ($M)":"5378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4194155,37.7749295 ]
+    },
+    "properties": {
+    "rank":168,
+    "title":"PG& E Corp.",
+    "Revenues ($M)":17135,
+    "Profits ($M)":"1646"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9885719,37.5482697 ]
+    },
+    "properties": {
+    "rank":169,
+    "title":"Synnex",
+    "Revenues ($M)":17046,
+    "Profits ($M)":"301.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4571776,27.950575 ]
+    },
+    "properties": {
+    "rank":170,
+    "title":"WellCare Health Plans",
+    "Revenues ($M)":17007,
+    "Profits ($M)":"373.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4360481,37.5407246 ]
+    },
+    "properties": {
+    "rank":171,
+    "title":"Performance Food Group",
+    "Revenues ($M)":16762,
+    "Profits ($M)":"96.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.1227199,42.0629915 ]
+    },
+    "properties": {
+    "rank":172,
+    "title":"Sears Holdings",
+    "Revenues ($M)":16702,
+    "Profits ($M)":"-383"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5387341,41.0534302 ]
+    },
+    "properties": {
+    "rank":173,
+    "title":"Synchrony Financial",
+    "Revenues ($M)":16695,
+    "Profits ($M)":"1935"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4360481,37.5407246 ]
+    },
+    "properties": {
+    "rank":174,
+    "title":"CarMax",
+    "Revenues ($M)":16637,
+    "Profits ($M)":"627"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":175,
+    "title":"Bank of New York Mellon",
+    "Revenues ($M)":16621,
+    "Profits ($M)":"4090"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0740373,33.4483771 ]
+    },
+    "properties": {
+    "rank":176,
+    "title":"Freeport-McMoRan",
+    "Revenues ($M)":16416,
+    "Profits ($M)":"1817"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "rank":177,
+    "title":"Genuine Parts",
+    "Revenues ($M)":16309,
+    "Profits ($M)":"616.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1994042,38.6270025 ]
+    },
+    "properties": {
+    "rank":178,
+    "title":"Emerson Electric",
+    "Revenues ($M)":16301,
+    "Profits ($M)":"1518"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.990251,39.7392358 ]
+    },
+    "properties": {
+    "rank":179,
+    "title":"DaVita",
+    "Revenues ($M)":16038,
+    "Profits ($M)":"663.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.470786,44.8546856 ]
+    },
+    "properties": {
+    "rank":180,
+    "title":"Supervalu",
+    "Revenues ($M)":16009,
+    "Profits ($M)":"650"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4194155,37.7749295 ]
+    },
+    "properties": {
+    "rank":181,
+    "title":"Gap",
+    "Revenues ($M)":15855,
+    "Profits ($M)":"848"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2650108,44.977753 ]
+    },
+    "properties": {
+    "rank":182,
+    "title":"General Mills",
+    "Revenues ($M)":15620,
+    "Profits ($M)":"1657.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3320708,47.6062095 ]
+    },
+    "properties": {
+    "rank":183,
+    "title":"Nordstrom",
+    "Revenues ($M)":15478,
+    "Profits ($M)":"437"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":184,
+    "title":"Colgate-Palmolive",
+    "Revenues ($M)":15454,
+    "Profits ($M)":"2024"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9987942,39.9611755 ]
+    },
+    "properties": {
+    "rank":185,
+    "title":"American Electric Power",
+    "Revenues ($M)":15425,
+    "Profits ($M)":"1912.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6281964,41.0262417 ]
+    },
+    "properties": {
+    "rank":186,
+    "title":"XPO Logistics",
+    "Revenues ($M)":15381,
+    "Profits ($M)":"340.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5190053,41.0814447 ]
+    },
+    "properties": {
+    "rank":187,
+    "title":"Goodyear Tire & Rubber",
+    "Revenues ($M)":15377,
+    "Profits ($M)":"346"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":188,
+    "title":"Omnicom Group",
+    "Revenues ($M)":15274,
+    "Profits ($M)":"1088.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9084039,42.1900249 ]
+    },
+    "properties": {
+    "rank":189,
+    "title":"CDW",
+    "Revenues ($M)":15192,
+    "Profits ($M)":"523"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6943605,41.49932 ]
+    },
+    "properties": {
+    "rank":190,
+    "title":"Sherwin-Williams",
+    "Revenues ($M)":14984,
+    "Profits ($M)":"1772.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9958864,40.4406248 ]
+    },
+    "properties": {
+    "rank":191,
+    "title":"PPG Industries",
+    "Revenues ($M)":14967,
+    "Profits ($M)":"1591"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7969879,32.7766642 ]
+    },
+    "properties": {
+    "rank":192,
+    "title":"Texas Instruments",
+    "Revenues ($M)":14961,
+    "Profits ($M)":"3682"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.470786,44.8546856 ]
+    },
+    "properties": {
+    "rank":193,
+    "title":"C.H. Robinson Worldwide",
+    "Revenues ($M)":14869,
+    "Profits ($M)":"504.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "rank":194,
+    "title":"WestRock",
+    "Revenues ($M)":14860,
+    "Profits ($M)":"708.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0116536,40.8932469 ]
+    },
+    "properties": {
+    "rank":195,
+    "title":"Cognizant Technology Solutions",
+    "Revenues ($M)":14810,
+    "Profits ($M)":"1504"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0323626,40.7439905 ]
+    },
+    "properties": {
+    "rank":196,
+    "title":"Newell Brands",
+    "Revenues ($M)":14742,
+    "Profits ($M)":"2748.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":197,
+    "title":"CBS",
+    "Revenues ($M)":14710,
+    "Profits ($M)":"357"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7816016,36.1626638 ]
+    },
+    "properties": {
+    "rank":198,
+    "title":"Envision Healthcare",
+    "Revenues ($M)":14701,
+    "Profits ($M)":"-228"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1994042,38.6270025 ]
+    },
+    "properties": {
+    "rank":199,
+    "title":"Monsanto",
+    "Revenues ($M)":14640,
+    "Profits ($M)":"2260"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1652215,39.9525839 ]
+    },
+    "properties": {
+    "rank":200,
+    "title":"Aramark",
+    "Revenues ($M)":14604,
+    "Profits ($M)":"373.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9552356,37.3541079 ]
+    },
+    "properties": {
+    "rank":201,
+    "title":"Applied Materials",
+    "Revenues ($M)":14537,
+    "Profits ($M)":"3434"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":202,
+    "title":"Waste Management",
+    "Revenues ($M)":14485,
+    "Profits ($M)":"1949"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9877597,39.6477653 ]
+    },
+    "properties": {
+    "rank":203,
+    "title":"DISH Network",
+    "Revenues ($M)":14391,
+    "Profits ($M)":"2098.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7878408,42.0697509 ]
+    },
+    "properties": {
+    "rank":204,
+    "title":"Illinois Tool Works",
+    "Revenues ($M)":14314,
+    "Profits ($M)":"1687"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.3599105,40.0462208 ]
+    },
+    "properties": {
+    "rank":205,
+    "title":"Lincoln National",
+    "Revenues ($M)":14257,
+    "Profits ($M)":"2079"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7969879,32.7766642 ]
+    },
+    "properties": {
+    "rank":206,
+    "title":"HollyFrontier",
+    "Revenues ($M)":14251,
+    "Profits ($M)":"805.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2436849,34.0522342 ]
+    },
+    "properties": {
+    "rank":207,
+    "title":"CBRE Group",
+    "Revenues ($M)":14210,
+    "Profits ($M)":"691.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4128343,41.8239891 ]
+    },
+    "properties": {
+    "rank":208,
+    "title":"Textron",
+    "Revenues ($M)":14198,
+    "Profits ($M)":"307"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9357918,37.7021521 ]
+    },
+    "properties": {
+    "rank":209,
+    "title":"Ross Stores",
+    "Revenues ($M)":14135,
+    "Profits ($M)":"1362.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.6091064,41.6005448 ]
+    },
+    "properties": {
+    "rank":210,
+    "title":"Principal Financial",
+    "Revenues ($M)":14093,
+    "Profits ($M)":"2310.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1080656,32.735687 ]
+    },
+    "properties": {
+    "rank":211,
+    "title":"D.R. Horton",
+    "Revenues ($M)":14091,
+    "Profits ($M)":"1038.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":212,
+    "title":"Marsh & McLennan",
+    "Revenues ($M)":14024,
+    "Profits ($M)":"1492"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5164276,35.4675602 ]
+    },
+    "properties": {
+    "rank":213,
+    "title":"Devon Energy",
+    "Revenues ($M)":13949,
+    "Profits ($M)":"898"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0909809,38.8816208 ]
+    },
+    "properties": {
+    "rank":214,
+    "title":"AES",
+    "Revenues ($M)":13850,
+    "Profits ($M)":"-1161"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0899578,44.9537029 ]
+    },
+    "properties": {
+    "rank":215,
+    "title":"Ecolab",
+    "Revenues ($M)":13838,
+    "Profits ($M)":"1508.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1566112,45.0502435 ]
+    },
+    "properties": {
+    "rank":216,
+    "title":"Land O'Lakes",
+    "Revenues ($M)":13740,
+    "Profits ($M)":"314.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":217,
+    "title":"Loews",
+    "Revenues ($M)":13735,
+    "Profits ($M)":"1164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":218,
+    "title":"Kinder Morgan",
+    "Revenues ($M)":13705,
+    "Profits ($M)":"183"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5190053,41.0814447 ]
+    },
+    "properties": {
+    "rank":219,
+    "title":"FirstEnergy",
+    "Revenues ($M)":13627,
+    "Profits ($M)":"-1724"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":220,
+    "title":"Occidental Petroleum",
+    "Revenues ($M)":13274,
+    "Profits ($M)":"1311"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":221,
+    "title":"Viacom",
+    "Revenues ($M)":13263,
+    "Profits ($M)":"1874"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8863286,37.3382082 ]
+    },
+    "properties": {
+    "rank":222,
+    "title":"PayPal Holdings",
+    "Revenues ($M)":13094,
+    "Profits ($M)":"1795"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.992775,36.1539816 ]
+    },
+    "properties": {
+    "rank":223,
+    "title":"NGL Energy Partners",
+    "Revenues ($M)":13022,
+    "Profits ($M)":"137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3646122,40.7146376 ]
+    },
+    "properties": {
+    "rank":224,
+    "title":"Celgene",
+    "Revenues ($M)":13003,
+    "Profits ($M)":"2940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":225,
+    "title":"Arconic",
+    "Revenues ($M)":12960,
+    "Profits ($M)":"-74"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1797142,42.3211522 ]
+    },
+    "properties": {
+    "rank":226,
+    "title":"Kellogg",
+    "Revenues ($M)":12923,
+    "Profits ($M)":"1269"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1398296,36.1699412 ]
+    },
+    "properties": {
+    "rank":227,
+    "title":"Las Vegas Sands",
+    "Revenues ($M)":12882,
+    "Profits ($M)":"2806"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.7795419,41.6612104 ]
+    },
+    "properties": {
+    "rank":228,
+    "title":"Stanley Black & Decker",
+    "Revenues ($M)":12747,
+    "Profits ($M)":"1226"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4081575,41.117744 ]
+    },
+    "properties": {
+    "rank":229,
+    "title":"Booking Holdings",
+    "Revenues ($M)":12681,
+    "Profits ($M)":"2340.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1917902,25.7616798 ]
+    },
+    "properties": {
+    "rank":230,
+    "title":"Lennar",
+    "Revenues ($M)":12646,
+    "Profits ($M)":"810.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9987942,39.9611755 ]
+    },
+    "properties": {
+    "rank":231,
+    "title":"L Brands",
+    "Revenues ($M)":12632,
+    "Profits ($M)":"983"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0457538,42.331427 ]
+    },
+    "properties": {
+    "rank":232,
+    "title":"DTE Energy",
+    "Revenues ($M)":12607,
+    "Profits ($M)":"1134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4360481,37.5407246 ]
+    },
+    "properties": {
+    "rank":233,
+    "title":"Dominion Energy",
+    "Revenues ($M)":12586,
+    "Profits ($M)":"2999"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.5770675,38.6631083 ]
+    },
+    "properties": {
+    "rank":234,
+    "title":"Reinsurance Group of America",
+    "Revenues ($M)":12516,
+    "Profits ($M)":"1822.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6988856,33.0198431 ]
+    },
+    "properties": {
+    "rank":235,
+    "title":"J.C. Penney",
+    "Revenues ($M)":12506,
+    "Profits ($M)":"-116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7144477,41.0400135 ]
+    },
+    "properties": {
+    "rank":236,
+    "title":"Mastercard",
+    "Revenues ($M)":12497,
+    "Profits ($M)":"3915"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":237,
+    "title":"BlackRock",
+    "Revenues ($M)":12491,
+    "Profits ($M)":"4970"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4151214,40.7934322 ]
+    },
+    "properties": {
+    "rank":238,
+    "title":"Henry Schein",
+    "Revenues ($M)":12462,
+    "Profits ($M)":"406.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":239,
+    "title":"Guardian Life Ins. Co. of America",
+    "Revenues ($M)":12455,
+    "Profits ($M)":"455.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.5872286,42.2917069 ]
+    },
+    "properties": {
+    "rank":240,
+    "title":"Stryker",
+    "Revenues ($M)":12444,
+    "Profits ($M)":"1020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":241,
+    "title":"Jefferies Financial Group",
+    "Revenues ($M)":12408,
+    "Profits ($M)":"171.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7919754,36.0726354 ]
+    },
+    "properties": {
+    "rank":242,
+    "title":"VF",
+    "Revenues ($M)":12400,
+    "Profits ($M)":"614.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2937594,40.8206555 ]
+    },
+    "properties": {
+    "rank":243,
+    "title":"ADP",
+    "Revenues ($M)":12380,
+    "Profits ($M)":"1733.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.072846,34.0805651 ]
+    },
+    "properties": {
+    "rank":244,
+    "title":"Edison International",
+    "Revenues ($M)":12320,
+    "Profits ($M)":"565"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1097335,42.3736158 ]
+    },
+    "properties": {
+    "rank":245,
+    "title":"Biogen",
+    "Revenues ($M)":12274,
+    "Profits ($M)":"2539.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9958864,40.4406248 ]
+    },
+    "properties": {
+    "rank":246,
+    "title":"United States Steel",
+    "Revenues ($M)":12250,
+    "Profits ($M)":"387"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4077498,37.654656 ]
+    },
+    "properties": {
+    "rank":247,
+    "title":"Core-Mark Holding",
+    "Revenues ($M)":12225,
+    "Profits ($M)":"33.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2631635,40.6975898 ]
+    },
+    "properties": {
+    "rank":248,
+    "title":"Bed Bath & Beyond",
+    "Revenues ($M)":12216,
+    "Profits ($M)":"685.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.992775,36.1539816 ]
+    },
+    "properties": {
+    "rank":249,
+    "title":"Oneok",
+    "Revenues ($M)":12174,
+    "Profits ($M)":"387.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.244216,36.0998596 ]
+    },
+    "properties": {
+    "rank":250,
+    "title":"BB& T Corp.",
+    "Revenues ($M)":12156,
+    "Profits ($M)":"2394"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2057011,41.0167639 ]
+    },
+    "properties": {
+    "rank":251,
+    "title":"Becton Dickinson",
+    "Revenues ($M)":12093,
+    "Profits ($M)":"1100"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2650108,44.977753 ]
+    },
+    "properties": {
+    "rank":252,
+    "title":"Ameriprise Financial",
+    "Revenues ($M)":12075,
+    "Profits ($M)":"1480"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.6089752,34.165357 ]
+    },
+    "properties": {
+    "rank":253,
+    "title":"Farmers Insurance Exchange",
+    "Revenues ($M)":12072,
+    "Profits ($M)":"-65.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":254,
+    "title":"First Data",
+    "Revenues ($M)":12052,
+    "Profits ($M)":"1465"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":255,
+    "title":"Consolidated Edison",
+    "Revenues ($M)":12033,
+    "Profits ($M)":"1525"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6943605,41.49932 ]
+    },
+    "properties": {
+    "rank":256,
+    "title":"Parker-Hannifin",
+    "Revenues ($M)":12029,
+    "Profits ($M)":"983.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4612625,30.1658207 ]
+    },
+    "properties": {
+    "rank":257,
+    "title":"Anadarko Petroleum",
+    "Revenues ($M)":11908,
+    "Profits ($M)":"-456"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":258,
+    "title":"Estee Lauder",
+    "Revenues ($M)":11824,
+    "Profits ($M)":"1249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0588801,42.3600825 ]
+    },
+    "properties": {
+    "rank":259,
+    "title":"State Street Corp.",
+    "Revenues ($M)":11774,
+    "Profits ($M)":"2177"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1430195,37.4418834 ]
+    },
+    "properties": {
+    "rank":260,
+    "title":"Tesla",
+    "Revenues ($M)":11759,
+    "Profits ($M)":"-1961.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9623751,37.2358078 ]
+    },
+    "properties": {
+    "rank":261,
+    "title":"Netflix",
+    "Revenues ($M)":11693,
+    "Profits ($M)":"558.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9958864,40.4406248 ]
+    },
+    "properties": {
+    "rank":262,
+    "title":"Alcoa",
+    "Revenues ($M)":11652,
+    "Profits ($M)":"217"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.897014,42.1675254 ]
+    },
+    "properties": {
+    "rank":263,
+    "title":"Discover Financial Services",
+    "Revenues ($M)":11545,
+    "Profits ($M)":"2099"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4540111,41.394817 ]
+    },
+    "properties": {
+    "rank":264,
+    "title":"Praxair",
+    "Revenues ($M)":11437,
+    "Profits ($M)":"1247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.655651,30.3321838 ]
+    },
+    "properties": {
+    "rank":265,
+    "title":"CSX",
+    "Revenues ($M)":11408,
+    "Profits ($M)":"5471"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2650108,44.977753 ]
+    },
+    "properties": {
+    "rank":266,
+    "title":"Xcel Energy",
+    "Revenues ($M)":11404,
+    "Profits ($M)":"1148"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3096801,35.0456297 ]
+    },
+    "properties": {
+    "rank":267,
+    "title":"Unum Group",
+    "Revenues ($M)":11287,
+    "Profits ($M)":"994.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.3835525,40.1012856 ]
+    },
+    "properties": {
+    "rank":268,
+    "title":"Universal Health Services",
+    "Revenues ($M)":11279,
+    "Profits ($M)":"752.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.6672226,40.3572976 ]
+    },
+    "properties": {
+    "rank":269,
+    "title":"NRG Energy",
+    "Revenues ($M)":11275,
+    "Profits ($M)":"-2153"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":270,
+    "title":"EOG Resources",
+    "Revenues ($M)":11208,
+    "Profits ($M)":"2582.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1610838,32.715738 ]
+    },
+    "properties": {
+    "rank":271,
+    "title":"Sempra Energy",
+    "Revenues ($M)":11207,
+    "Profits ($M)":"256"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2765441,40.9253725 ]
+    },
+    "properties": {
+    "rank":272,
+    "title":"Toys 'R'� Us",
+    "Revenues ($M)":11146,
+    "Profits ($M)":"-612"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":273,
+    "title":"Group 1 Automotive",
+    "Revenues ($M)":11124,
+    "Profits ($M)":"213.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0715323,29.9510658 ]
+    },
+    "properties": {
+    "rank":274,
+    "title":"Entergy",
+    "Revenues ($M)":11075,
+    "Profits ($M)":"411.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.990251,39.7392358 ]
+    },
+    "properties": {
+    "rank":275,
+    "title":"Molson Coors Brewing",
+    "Revenues ($M)":11003,
+    "Profits ($M)":"1414.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":276,
+    "title":"L3 Technologies",
+    "Revenues ($M)":11002,
+    "Profits ($M)":"677"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.0866504,39.9205411 ]
+    },
+    "properties": {
+    "rank":277,
+    "title":"Ball",
+    "Revenues ($M)":10983,
+    "Profits ($M)":"374"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0489801,35.1495343 ]
+    },
+    "properties": {
+    "rank":278,
+    "title":"AutoZone",
+    "Revenues ($M)":10889,
+    "Profits ($M)":"1280.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.6662674,33.20763 ]
+    },
+    "properties": {
+    "rank":279,
+    "title":"Murphy USA",
+    "Revenues ($M)":10853,
+    "Profits ($M)":"245.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1398296,36.1699412 ]
+    },
+    "properties": {
+    "rank":280,
+    "title":"MGM Resorts International",
+    "Revenues ($M)":10774,
+    "Profits ($M)":"1960.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1289321,26.3683064 ]
+    },
+    "properties": {
+    "rank":281,
+    "title":"Office Depot",
+    "Revenues ($M)":10752,
+    "Profits ($M)":"181"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4612625,30.1658207 ]
+    },
+    "properties": {
+    "rank":282,
+    "title":"Huntsman",
+    "Revenues ($M)":10592,
+    "Profits ($M)":"636"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8445119,42.1711365 ]
+    },
+    "properties": {
+    "rank":283,
+    "title":"Baxter International",
+    "Revenues ($M)":10561,
+    "Profits ($M)":"717"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.2858726,36.8507689 ]
+    },
+    "properties": {
+    "rank":284,
+    "title":"Norfolk Southern",
+    "Revenues ($M)":10551,
+    "Profits ($M)":"5404"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4194155,37.7749295 ]
+    },
+    "properties": {
+    "rank":285,
+    "title":"salesforce.com",
+    "Revenues ($M)":10480,
+    "Profits ($M)":"127.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4377991,36.0956918 ]
+    },
+    "properties": {
+    "rank":286,
+    "title":"Laboratory Corp. of America",
+    "Revenues ($M)":10441,
+    "Profits ($M)":"1268.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.840625,42.2586342 ]
+    },
+    "properties": {
+    "rank":287,
+    "title":"W.W. Grainger",
+    "Revenues ($M)":10425,
+    "Profits ($M)":"585.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9877597,39.6477653 ]
+    },
+    "properties": {
+    "rank":288,
+    "title":"Qurate Retail",
+    "Revenues ($M)":10404,
+    "Profits ($M)":"2441"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2341028,42.6875323 ]
+    },
+    "properties": {
+    "rank":289,
+    "title":"Autoliv",
+    "Revenues ($M)":10383,
+    "Profits ($M)":"427.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4003563,34.0736204 ]
+    },
+    "properties": {
+    "rank":290,
+    "title":"Live Nation Entertainment",
+    "Revenues ($M)":10337,
+    "Profits ($M)":"-6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4081575,41.117744 ]
+    },
+    "properties": {
+    "rank":291,
+    "title":"Xerox",
+    "Revenues ($M)":10265,
+    "Profits ($M)":"195"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.3570028,38.9586307 ]
+    },
+    "properties": {
+    "rank":292,
+    "title":"Leidos Holdings",
+    "Revenues ($M)":10170,
+    "Profits ($M)":"366"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0546903,42.1428521 ]
+    },
+    "properties": {
+    "rank":293,
+    "title":"Corning",
+    "Revenues ($M)":10116,
+    "Profits ($M)":"-497"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8755949,42.3265152 ]
+    },
+    "properties": {
+    "rank":294,
+    "title":"Lithia Motors",
+    "Revenues ($M)":10087,
+    "Profits ($M)":"245.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2015159,47.6101497 ]
+    },
+    "properties": {
+    "rank":295,
+    "title":"Expedia Group",
+    "Revenues ($M)":10060,
+    "Profits ($M)":"378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0740373,33.4483771 ]
+    },
+    "properties": {
+    "rank":296,
+    "title":"Republic Services",
+    "Revenues ($M)":10042,
+    "Profits ($M)":"1278.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7969879,32.7766642 ]
+    },
+    "properties": {
+    "rank":297,
+    "title":"Jacobs Engineering Group",
+    "Revenues ($M)":10023,
+    "Profits ($M)":"293.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8431267,35.2270869 ]
+    },
+    "properties": {
+    "rank":298,
+    "title":"Sonic Automotive",
+    "Revenues ($M)":9867,
+    "Profits ($M)":"93"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0457538,42.331427 ]
+    },
+    "properties": {
+    "rank":299,
+    "title":"Ally Financial",
+    "Revenues ($M)":9866,
+    "Profits ($M)":"929"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "rank":300,
+    "title":"LKQ",
+    "Revenues ($M)":9848,
+    "Profits ($M)":"533.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2341028,42.6875323 ]
+    },
+    "properties": {
+    "rank":301,
+    "title":"BorgWarner",
+    "Revenues ($M)":9799,
+    "Profits ($M)":"439.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.655651,30.3321838 ]
+    },
+    "properties": {
+    "rank":302,
+    "title":"Fidelity National Financial",
+    "Revenues ($M)":9769,
+    "Profits ($M)":"771"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "rank":303,
+    "title":"SunTrust Banks",
+    "Revenues ($M)":9741,
+    "Profits ($M)":"2273"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.90511,35.980513 ]
+    },
+    "properties": {
+    "rank":304,
+    "title":"IQVIA Holdings",
+    "Revenues ($M)":9739,
+    "Profits ($M)":"1309"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2436849,34.0522342 ]
+    },
+    "properties": {
+    "rank":305,
+    "title":"Reliance Steel & Aluminum",
+    "Revenues ($M)":9721,
+    "Profits ($M)":"613.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9552356,37.3541079 ]
+    },
+    "properties": {
+    "rank":306,
+    "title":"Nvidia",
+    "Revenues ($M)":9714,
+    "Profits ($M)":"3047"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":307,
+    "title":"Voya Financial",
+    "Revenues ($M)":9660,
+    "Profits ($M)":"-2992"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":308,
+    "title":"CenterPoint Energy",
+    "Revenues ($M)":9614,
+    "Profits ($M)":"1792"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8863286,37.3382082 ]
+    },
+    "properties": {
+    "rank":309,
+    "title":"eBay",
+    "Revenues ($M)":9567,
+    "Profits ($M)":"-1016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5618186,36.548434 ]
+    },
+    "properties": {
+    "rank":310,
+    "title":"Eastman Chemical",
+    "Revenues ($M)":9549,
+    "Profits ($M)":"1384"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4012302,43.0730517 ]
+    },
+    "properties": {
+    "rank":311,
+    "title":"American Family Insurance Group",
+    "Revenues ($M)":9545,
+    "Profits ($M)":"155.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1393513,41.079273 ]
+    },
+    "properties": {
+    "rank":312,
+    "title":"Steel Dynamics",
+    "Revenues ($M)":9539,
+    "Profits ($M)":"812.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.9298493,33.6188829 ]
+    },
+    "properties": {
+    "rank":313,
+    "title":"Pacific Life",
+    "Revenues ($M)":9510,
+    "Profits ($M)":"1365"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5164276,35.4675602 ]
+    },
+    "properties": {
+    "rank":314,
+    "title":"Chesapeake Energy",
+    "Revenues ($M)":9496,
+    "Profits ($M)":"949"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9510542,34.502587 ]
+    },
+    "properties": {
+    "rank":315,
+    "title":"Mohawk Industries",
+    "Revenues ($M)":9491,
+    "Profits ($M)":"971.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":316,
+    "title":"Quanta Services",
+    "Revenues ($M)":9467,
+    "Profits ($M)":"315"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9414266,37.2709704 ]
+    },
+    "properties": {
+    "rank":317,
+    "title":"Advance Auto Parts",
+    "Revenues ($M)":9374,
+    "Profits ($M)":"475.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.3733139,37.6087561 ]
+    },
+    "properties": {
+    "rank":318,
+    "title":"Owens & Minor",
+    "Revenues ($M)":9318,
+    "Profits ($M)":"72.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4128343,41.8239891 ]
+    },
+    "properties": {
+    "rank":319,
+    "title":"United Natural Foods",
+    "Revenues ($M)":9275,
+    "Profits ($M)":"130.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.840625,42.2586342 ]
+    },
+    "properties": {
+    "rank":320,
+    "title":"Tenneco",
+    "Revenues ($M)":9274,
+    "Profits ($M)":"207"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "rank":321,
+    "title":"Conagra Brands",
+    "Revenues ($M)":9235,
+    "Profits ($M)":"639.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.0780654,32.9342919 ]
+    },
+    "properties": {
+    "rank":322,
+    "title":"GameStop",
+    "Revenues ($M)":9225,
+    "Profits ($M)":"34.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.9746367,43.6666296 ]
+    },
+    "properties": {
+    "rank":323,
+    "title":"Hormel Foods",
+    "Revenues ($M)":9168,
+    "Profits ($M)":"846.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1772604,38.9338676 ]
+    },
+    "properties": {
+    "rank":324,
+    "title":"Hilton Worldwide Holdings",
+    "Revenues ($M)":9140,
+    "Profits ($M)":"1259"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4081575,41.117744 ]
+    },
+    "properties": {
+    "rank":325,
+    "title":"Frontier Communications",
+    "Revenues ($M)":9128,
+    "Profits ($M)":"-1804"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.655651,30.3321838 ]
+    },
+    "properties": {
+    "rank":326,
+    "title":"Fidelity National Information Services",
+    "Revenues ($M)":9123,
+    "Profits ($M)":"1319"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1723667,40.735657 ]
+    },
+    "properties": {
+    "rank":327,
+    "title":"Public Service Enterprise Group",
+    "Revenues ($M)":9084,
+    "Profits ($M)":"1574"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5522874,42.3459271 ]
+    },
+    "properties": {
+    "rank":328,
+    "title":"Boston Scientific",
+    "Revenues ($M)":9048,
+    "Profits ($M)":"104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2922989,37.2089572 ]
+    },
+    "properties": {
+    "rank":329,
+    "title":"OReilly Automotive",
+    "Revenues ($M)":8978,
+    "Profits ($M)":"1133.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4194155,37.7749295 ]
+    },
+    "properties": {
+    "rank":330,
+    "title":"Charles Schwab",
+    "Revenues ($M)":8960,
+    "Profits ($M)":"2354"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2356113,42.3764852 ]
+    },
+    "properties": {
+    "rank":331,
+    "title":"Global Partners",
+    "Revenues ($M)":8921,
+    "Profits ($M)":"58.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":332,
+    "title":"PVH",
+    "Revenues ($M)":8915,
+    "Profits ($M)":"537.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.4173877,40.8652865 ]
+    },
+    "properties": {
+    "rank":333,
+    "title":"Avis Budget Group",
+    "Revenues ($M)":8848,
+    "Profits ($M)":"361"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":334,
+    "title":"Targa Resources",
+    "Revenues ($M)":8815,
+    "Profits ($M)":"54"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.8067523,26.438136 ]
+    },
+    "properties": {
+    "rank":335,
+    "title":"Hertz Global Holdings",
+    "Revenues ($M)":8803,
+    "Profits ($M)":"327"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":336,
+    "title":"Calpine",
+    "Revenues ($M)":8752,
+    "Profits ($M)":"-339"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9345034,41.2565369 ]
+    },
+    "properties": {
+    "rank":337,
+    "title":"Mutual of Omaha Insurance",
+    "Revenues ($M)":8732,
+    "Profits ($M)":"862.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1652215,39.9525839 ]
+    },
+    "properties": {
+    "rank":338,
+    "title":"Crown Holdings",
+    "Revenues ($M)":8698,
+    "Profits ($M)":"323"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9345034,41.2565369 ]
+    },
+    "properties": {
+    "rank":339,
+    "title":"Peter Kiewit Sons",
+    "Revenues ($M)":8678,
+    "Profits ($M)":"371"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1667247,40.5184013 ]
+    },
+    "properties": {
+    "rank":340,
+    "title":"Dicks Sporting Goods",
+    "Revenues ($M)":8591,
+    "Profits ($M)":"323.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "rank":341,
+    "title":"PulteGroup",
+    "Revenues ($M)":8573,
+    "Profits ($M)":"447.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0747875,41.801141 ]
+    },
+    "properties": {
+    "rank":342,
+    "title":"Navistar International",
+    "Revenues ($M)":8570,
+    "Profits ($M)":"30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2650108,44.977753 ]
+    },
+    "properties": {
+    "rank":343,
+    "title":"Thrivent Financial for Lutherans",
+    "Revenues ($M)":8528,
+    "Profits ($M)":"558.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.990251,39.7392358 ]
+    },
+    "properties": {
+    "rank":344,
+    "title":"DCP Midstream",
+    "Revenues ($M)":8462,
+    "Profits ($M)":"229"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4714098,40.6022939 ]
+    },
+    "properties": {
+    "rank":345,
+    "title":"Air Products & Chemicals",
+    "Revenues ($M)":8442,
+    "Profits ($M)":"3000.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "rank":346,
+    "title":"Veritiv",
+    "Revenues ($M)":8365,
+    "Profits ($M)":"-13.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1446376,34.0028786 ]
+    },
+    "properties": {
+    "rank":347,
+    "title":"AGCO",
+    "Revenues ($M)":8307,
+    "Profits ($M)":"186.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4360481,37.5407246 ]
+    },
+    "properties": {
+    "rank":348,
+    "title":"Genworth Financial",
+    "Revenues ($M)":8295,
+    "Profits ($M)":"817"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0111746,41.8089191 ]
+    },
+    "properties": {
+    "rank":349,
+    "title":"Univar",
+    "Revenues ($M)":8254,
+    "Profits ($M)":"119.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":350,
+    "title":"News Corp.",
+    "Revenues ($M)":8139,
+    "Profits ($M)":"-738"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7228061,42.8122508 ]
+    },
+    "properties": {
+    "rank":351,
+    "title":"SpartanNash",
+    "Revenues ($M)":8128,
+    "Profits ($M)":"-52.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":352,
+    "title":"Westlake Chemical",
+    "Revenues ($M)":8041,
+    "Profits ($M)":"1304"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.992775,36.1539816 ]
+    },
+    "properties": {
+    "rank":353,
+    "title":"Williams",
+    "Revenues ($M)":8031,
+    "Profits ($M)":"2174"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9885719,37.5482697 ]
+    },
+    "properties": {
+    "rank":354,
+    "title":"Lam Research",
+    "Revenues ($M)":8014,
+    "Profits ($M)":"1697.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3320708,47.6062095 ]
+    },
+    "properties": {
+    "rank":355,
+    "title":"Alaska Air Group",
+    "Revenues ($M)":7933,
+    "Profits ($M)":"1034"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "rank":356,
+    "title":"Jones Lang LaSalle",
+    "Revenues ($M)":7932,
+    "Profits ($M)":"254.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7878408,42.0697509 ]
+    },
+    "properties": {
+    "rank":357,
+    "title":"Anixter International",
+    "Revenues ($M)":7927,
+    "Profits ($M)":"109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1196199,39.9259463 ]
+    },
+    "properties": {
+    "rank":358,
+    "title":"Campbell Soup",
+    "Revenues ($M)":7890,
+    "Profits ($M)":"887"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":359,
+    "title":"Interpublic Group",
+    "Revenues ($M)":7882,
+    "Profits ($M)":"579"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0111746,41.8089191 ]
+    },
+    "properties": {
+    "rank":360,
+    "title":"Dover",
+    "Revenues ($M)":7830,
+    "Profits ($M)":"811.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.8530469,41.2381 ]
+    },
+    "properties": {
+    "rank":361,
+    "title":"Zimmer Biomet Holdings",
+    "Revenues ($M)":7824,
+    "Profits ($M)":"1813.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7969879,32.7766642 ]
+    },
+    "properties": {
+    "rank":362,
+    "title":"Dean Foods",
+    "Revenues ($M)":7795,
+    "Profits ($M)":"61.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":363,
+    "title":"Foot Locker",
+    "Revenues ($M)":7782,
+    "Profits ($M)":"284"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.589811,42.1014831 ]
+    },
+    "properties": {
+    "rank":364,
+    "title":"Eversource Energy",
+    "Revenues ($M)":7752,
+    "Profits ($M)":"988"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6988856,33.0198431 ]
+    },
+    "properties": {
+    "rank":365,
+    "title":"Alliance Data Systems",
+    "Revenues ($M)":7719,
+    "Profits ($M)":"788.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5120196,39.1031182 ]
+    },
+    "properties": {
+    "rank":366,
+    "title":"Fifth Third Bancorp",
+    "Revenues ($M)":7713,
+    "Profits ($M)":"2194"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0565298,40.7895453 ]
+    },
+    "properties": {
+    "rank":367,
+    "title":"Quest Diagnostics",
+    "Revenues ($M)":7709,
+    "Profits ($M)":"772"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4081575,41.117744 ]
+    },
+    "properties": {
+    "rank":368,
+    "title":"EMCOR Group",
+    "Revenues ($M)":7688,
+    "Profits ($M)":"227.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6281964,41.0262417 ]
+    },
+    "properties": {
+    "rank":369,
+    "title":"W.R. Berkley",
+    "Revenues ($M)":7685,
+    "Profits ($M)":"549.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9958864,40.4406248 ]
+    },
+    "properties": {
+    "rank":370,
+    "title":"WESCO International",
+    "Revenues ($M)":7679,
+    "Profits ($M)":"163.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":371,
+    "title":"Coty",
+    "Revenues ($M)":7650,
+    "Profits ($M)":"-422.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9064736,43.0389025 ]
+    },
+    "properties": {
+    "rank":372,
+    "title":"WEC Energy Group",
+    "Revenues ($M)":7649,
+    "Profits ($M)":"1203.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3527097,42.36837 ]
+    },
+    "properties": {
+    "rank":373,
+    "title":"Masco",
+    "Revenues ($M)":7644,
+    "Profits ($M)":"533"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2310925,38.9187222 ]
+    },
+    "properties": {
+    "rank":374,
+    "title":"DXC Technology",
+    "Revenues ($M)":7607,
+    "Profits ($M)":"-123"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5555347,42.732535 ]
+    },
+    "properties": {
+    "rank":375,
+    "title":"Auto-Owners Insurance",
+    "Revenues ($M)":7604,
+    "Profits ($M)":"645.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.448126,38.59722 ]
+    },
+    "properties": {
+    "rank":376,
+    "title":"Jones Financial (Edward Jones)",
+    "Revenues ($M)":7597,
+    "Profits ($M)":"872"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9877597,39.6477653 ]
+    },
+    "properties": {
+    "rank":377,
+    "title":"Liberty Media",
+    "Revenues ($M)":7594,
+    "Profits ($M)":"1354"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.085059,42.1292241 ]
+    },
+    "properties": {
+    "rank":378,
+    "title":"Erie Insurance Group",
+    "Revenues ($M)":7535,
+    "Profits ($M)":"857.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6502468,40.2859239 ]
+    },
+    "properties": {
+    "rank":379,
+    "title":"Hershey",
+    "Revenues ($M)":7515,
+    "Profits ($M)":"783"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4714098,40.6022939 ]
+    },
+    "properties": {
+    "rank":380,
+    "title":"PPL",
+    "Revenues ($M)":7447,
+    "Profits ($M)":"1128"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.4730122,37.0870821 ]
+    },
+    "properties": {
+    "rank":381,
+    "title":"Huntington Ingalls Industries",
+    "Revenues ($M)":7441,
+    "Profits ($M)":"479"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.4555093,45.0105194 ]
+    },
+    "properties": {
+    "rank":382,
+    "title":"Mosaic",
+    "Revenues ($M)":7409,
+    "Profits ($M)":"-107.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.7640212,40.8436663 ]
+    },
+    "properties": {
+    "rank":383,
+    "title":"J.M. Smucker",
+    "Revenues ($M)":7392,
+    "Profits ($M)":"592.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7827772,36.0331164 ]
+    },
+    "properties": {
+    "rank":384,
+    "title":"Delek US Holdings",
+    "Revenues ($M)":7350,
+    "Profits ($M)":"288.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9508141,39.6172101 ]
+    },
+    "properties": {
+    "rank":385,
+    "title":"Newmont Mining",
+    "Revenues ($M)":7348,
+    "Profits ($M)":"-98"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4088794,42.9825633 ]
+    },
+    "properties": {
+    "rank":386,
+    "title":"Constellation Brands",
+    "Revenues ($M)":7332,
+    "Profits ($M)":"1535.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1917902,25.7616798 ]
+    },
+    "properties": {
+    "rank":387,
+    "title":"Ryder System",
+    "Revenues ($M)":7330,
+    "Profits ($M)":"790.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":388,
+    "title":"National Oilwell Varco",
+    "Revenues ($M)":7304,
+    "Profits ($M)":"-237"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8863286,37.3382082 ]
+    },
+    "properties": {
+    "rank":389,
+    "title":"Adobe Systems",
+    "Revenues ($M)":7302,
+    "Profits ($M)":"1694"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7827772,36.0331164 ]
+    },
+    "properties": {
+    "rank":390,
+    "title":"LifePoint Health",
+    "Revenues ($M)":7263,
+    "Profits ($M)":"102.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7827772,36.0331164 ]
+    },
+    "properties": {
+    "rank":391,
+    "title":"Tractor Supply",
+    "Revenues ($M)":7256,
+    "Profits ($M)":"422.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9766671,41.6819935 ]
+    },
+    "properties": {
+    "rank":392,
+    "title":"Thor Industries",
+    "Revenues ($M)":7247,
+    "Profits ($M)":"374.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6538244,41.5628294 ]
+    },
+    "properties": {
+    "rank":393,
+    "title":"Dana",
+    "Revenues ($M)":7209,
+    "Profits ($M)":"111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3320708,47.6062095 ]
+    },
+    "properties": {
+    "rank":394,
+    "title":"Weyerhaeuser",
+    "Revenues ($M)":7196,
+    "Profits ($M)":"582"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.1307587,36.2553543 ]
+    },
+    "properties": {
+    "rank":395,
+    "title":"J.B. Hunt Transport Services",
+    "Revenues ($M)":7190,
+    "Profits ($M)":"686.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3792365,28.5383355 ]
+    },
+    "properties": {
+    "rank":396,
+    "title":"Darden Restaurants",
+    "Revenues ($M)":7170,
+    "Profits ($M)":"479.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6988856,33.0198431 ]
+    },
+    "properties": {
+    "rank":397,
+    "title":"Yum China Holdings",
+    "Revenues ($M)":7144,
+    "Profits ($M)":"403"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":398,
+    "title":"Blackstone Group",
+    "Revenues ($M)":7119,
+    "Profits ($M)":"1470.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.5710898,37.9715592 ]
+    },
+    "properties": {
+    "rank":399,
+    "title":"Berry Global Group",
+    "Revenues ($M)":7095,
+    "Profits ($M)":"340"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7969879,32.7766642 ]
+    },
+    "properties": {
+    "rank":400,
+    "title":"Builders FirstSource",
+    "Revenues ($M)":7034,
+    "Profits ($M)":"38.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4911912,34.0194543 ]
+    },
+    "properties": {
+    "rank":401,
+    "title":"Activision Blizzard",
+    "Revenues ($M)":7017,
+    "Profits ($M)":"273"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9485424,40.744679 ]
+    },
+    "properties": {
+    "rank":402,
+    "title":"JetBlue Airways",
+    "Revenues ($M)":7015,
+    "Profits ($M)":"1147"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.8230736,41.4570108 ]
+    },
+    "properties": {
+    "rank":403,
+    "title":"Amphenol",
+    "Revenues ($M)":7011,
+    "Profits ($M)":"650.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4164652,33.9191799 ]
+    },
+    "properties": {
+    "rank":404,
+    "title":"A-Mark Precious Metals",
+    "Revenues ($M)":6990,
+    "Profits ($M)":"7.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.330053,37.6871761 ]
+    },
+    "properties": {
+    "rank":405,
+    "title":"Spirit AeroSystems Holdings",
+    "Revenues ($M)":6983,
+    "Profits ($M)":"354.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "rank":406,
+    "title":"R.R. Donnelley & Sons",
+    "Revenues ($M)":6940,
+    "Profits ($M)":"-34.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6081089,28.0836269 ]
+    },
+    "properties": {
+    "rank":407,
+    "title":"Harris",
+    "Revenues ($M)":6939,
+    "Profits ($M)":"553"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3320708,47.6062095 ]
+    },
+    "properties": {
+    "rank":408,
+    "title":"Expeditors Intl. of Washington",
+    "Revenues ($M)":6921,
+    "Profits ($M)":"489.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.026088,38.9906657 ]
+    },
+    "properties": {
+    "rank":409,
+    "title":"Discovery",
+    "Revenues ($M)":6873,
+    "Profits ($M)":"-337"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.627157,41.556996 ]
+    },
+    "properties": {
+    "rank":410,
+    "title":"Owens-Illinois",
+    "Revenues ($M)":6869,
+    "Profits ($M)":"180"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8863286,37.3382082 ]
+    },
+    "properties": {
+    "rank":411,
+    "title":"Sanmina",
+    "Revenues ($M)":6869,
+    "Profits ($M)":"138.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6943605,41.49932 ]
+    },
+    "properties": {
+    "rank":412,
+    "title":"KeyCorp",
+    "Revenues ($M)":6868,
+    "Profits ($M)":"1296"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5120196,39.1031182 ]
+    },
+    "properties": {
+    "rank":413,
+    "title":"American Financial Group",
+    "Revenues ($M)":6865,
+    "Profits ($M)":"475"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.5426136,44.0247062 ]
+    },
+    "properties": {
+    "rank":414,
+    "title":"Oshkosh",
+    "Revenues ($M)":6830,
+    "Profits ($M)":"285.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.6656232,41.9778795 ]
+    },
+    "properties": {
+    "rank":415,
+    "title":"Rockwell Collins",
+    "Revenues ($M)":6822,
+    "Profits ($M)":"705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7584557,38.2526647 ]
+    },
+    "properties": {
+    "rank":416,
+    "title":"Kindred Healthcare",
+    "Revenues ($M)":6768,
+    "Profits ($M)":"-698.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9400054,33.4255104 ]
+    },
+    "properties": {
+    "rank":417,
+    "title":"Insight Enterprises",
+    "Revenues ($M)":6704,
+    "Profits ($M)":"90.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6988856,33.0198431 ]
+    },
+    "properties": {
+    "rank":418,
+    "title":"Dr Pepper Snapple Group",
+    "Revenues ($M)":6690,
+    "Profits ($M)":"1076"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0588801,42.3600825 ]
+    },
+    "properties": {
+    "rank":419,
+    "title":"American Tower",
+    "Revenues ($M)":6664,
+    "Profits ($M)":"1238.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2020795,47.9789848 ]
+    },
+    "properties": {
+    "rank":420,
+    "title":"Fortive",
+    "Revenues ($M)":6656,
+    "Profits ($M)":"1044.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":421,
+    "title":"Ralph Lauren",
+    "Revenues ($M)":6653,
+    "Profits ($M)":"-99.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":422,
+    "title":"HRG Group",
+    "Revenues ($M)":6650,
+    "Profits ($M)":"106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1435843,41.0886216 ]
+    },
+    "properties": {
+    "rank":423,
+    "title":"Ascena Retail Group",
+    "Revenues ($M)":6650,
+    "Profits ($M)":"-1067.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5387341,41.0534302 ]
+    },
+    "properties": {
+    "rank":424,
+    "title":"United Rentals",
+    "Revenues ($M)":6641,
+    "Profits ($M)":"1346"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.6001278,41.7317884 ]
+    },
+    "properties": {
+    "rank":425,
+    "title":"Caseys General Stores",
+    "Revenues ($M)":6641,
+    "Profits ($M)":"177.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1994042,38.6270025 ]
+    },
+    "properties": {
+    "rank":426,
+    "title":"Graybar Electric",
+    "Revenues ($M)":6631,
+    "Profits ($M)":"71.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.255075,34.1425078 ]
+    },
+    "properties": {
+    "rank":427,
+    "title":"Avery Dennison",
+    "Revenues ($M)":6614,
+    "Profits ($M)":"281.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2683838,25.72149 ]
+    },
+    "properties": {
+    "rank":428,
+    "title":"MasTec",
+    "Revenues ($M)":6607,
+    "Profits ($M)":"347.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4013462,42.245869 ]
+    },
+    "properties": {
+    "rank":429,
+    "title":"CMS Energy",
+    "Revenues ($M)":6583,
+    "Profits ($M)":"460"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "rank":430,
+    "title":"HD Supply Holdings",
+    "Revenues ($M)":6534,
+    "Profits ($M)":"970"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6402915,27.7676008 ]
+    },
+    "properties": {
+    "rank":431,
+    "title":"Raymond James Financial",
+    "Revenues ($M)":6525,
+    "Profits ($M)":"636.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "rank":432,
+    "title":"NCR",
+    "Revenues ($M)":6516,
+    "Profits ($M)":"232"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.244216,36.0998596 ]
+    },
+    "properties": {
+    "rank":433,
+    "title":"Hanesbrands",
+    "Revenues ($M)":6478,
+    "Profits ($M)":"61.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.1446376,34.0028786 ]
+    },
+    "properties": {
+    "rank":434,
+    "title":"Asbury Automotive Group",
+    "Revenues ($M)":6457,
+    "Profits ($M)":"139.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4128343,41.8239891 ]
+    },
+    "properties": {
+    "rank":435,
+    "title":"Citizens Financial Group",
+    "Revenues ($M)":6454,
+    "Profits ($M)":"1652"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.840625,42.2586342 ]
+    },
+    "properties": {
+    "rank":436,
+    "title":"Packaging Corp. of America",
+    "Revenues ($M)":6445,
+    "Profits ($M)":"668.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":437,
+    "title":"Alleghany",
+    "Revenues ($M)":6425,
+    "Profits ($M)":"90.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":438,
+    "title":"Apache",
+    "Revenues ($M)":6423,
+    "Profits ($M)":"1304"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.2895948,34.7464809 ]
+    },
+    "properties": {
+    "rank":439,
+    "title":"Dillards",
+    "Revenues ($M)":6423,
+    "Profits ($M)":"221.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":440,
+    "title":"Assurant",
+    "Revenues ($M)":6415,
+    "Profits ($M)":"519.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3255254,37.5629917 ]
+    },
+    "properties": {
+    "rank":441,
+    "title":"Franklin Resources",
+    "Revenues ($M)":6392,
+    "Profits ($M)":"1696.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5378674,41.6528052 ]
+    },
+    "properties": {
+    "rank":442,
+    "title":"Owens Corning",
+    "Revenues ($M)":6384,
+    "Profits ($M)":"289"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "rank":443,
+    "title":"Motorola Solutions",
+    "Revenues ($M)":6380,
+    "Profits ($M)":"-155"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.3570028,38.9586307 ]
+    },
+    "properties": {
+    "rank":444,
+    "title":"NVR",
+    "Revenues ($M)":6322,
+    "Profits ($M)":"537.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9064736,43.0389025 ]
+    },
+    "properties": {
+    "rank":445,
+    "title":"Rockwell Automation",
+    "Revenues ($M)":6311,
+    "Profits ($M)":"825.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9535534,41.8397865 ]
+    },
+    "properties": {
+    "rank":446,
+    "title":"TreeHouse Foods",
+    "Revenues ($M)":6307,
+    "Profits ($M)":"-286.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1398296,36.1699412 ]
+    },
+    "properties": {
+    "rank":447,
+    "title":"Wynn Resorts",
+    "Revenues ($M)":6306,
+    "Profits ($M)":"747.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.3237263,38.6425518 ]
+    },
+    "properties": {
+    "rank":448,
+    "title":"Olin",
+    "Revenues ($M)":6268,
+    "Profits ($M)":"549.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0457538,42.331427 ]
+    },
+    "properties": {
+    "rank":449,
+    "title":"American Axle & Manufacturing",
+    "Revenues ($M)":6266,
+    "Profits ($M)":"337.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "rank":450,
+    "title":"Old Republic International",
+    "Revenues ($M)":6263,
+    "Profits ($M)":"560.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.5397878,39.7390721 ]
+    },
+    "properties": {
+    "rank":451,
+    "title":"Chemours",
+    "Revenues ($M)":6183,
+    "Profits ($M)":"746"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4936282,29.4241219 ]
+    },
+    "properties": {
+    "rank":452,
+    "title":"iHeartMedia",
+    "Revenues ($M)":6178,
+    "Profits ($M)":"-704.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1994042,38.6270025 ]
+    },
+    "properties": {
+    "rank":453,
+    "title":"Ameren",
+    "Revenues ($M)":6177,
+    "Profits ($M)":"523"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0131275,42.0841936 ]
+    },
+    "properties": {
+    "rank":454,
+    "title":"Arthur J. Gallagher",
+    "Revenues ($M)":6160,
+    "Profits ($M)":"463.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.9488945,32.8140177 ]
+    },
+    "properties": {
+    "rank":455,
+    "title":"Celanese",
+    "Revenues ($M)":6140,
+    "Profits ($M)":"843"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8431267,35.2270869 ]
+    },
+    "properties": {
+    "rank":456,
+    "title":"Sealed Air",
+    "Revenues ($M)":6131,
+    "Profits ($M)":"814.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.3835525,40.1012856 ]
+    },
+    "properties": {
+    "rank":457,
+    "title":"UGI",
+    "Revenues ($M)":6121,
+    "Profits ($M)":"436.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.417097,40.7598227 ]
+    },
+    "properties": {
+    "rank":458,
+    "title":"Realogy Holdings",
+    "Revenues ($M)":6114,
+    "Profits ($M)":"431"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.8648873,40.071222 ]
+    },
+    "properties": {
+    "rank":459,
+    "title":"Burlington Stores",
+    "Revenues ($M)":6110,
+    "Profits ($M)":"384.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.80249,33.5206608 ]
+    },
+    "properties": {
+    "rank":460,
+    "title":"Regions Financial",
+    "Revenues ($M)":6093,
+    "Profits ($M)":"1263"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4172666,39.3321262 ]
+    },
+    "properties": {
+    "rank":461,
+    "title":"AK Steel Holding",
+    "Revenues ($M)":6081,
+    "Profits ($M)":"6.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0899578,44.9537029 ]
+    },
+    "properties": {
+    "rank":462,
+    "title":"Securian Financial Group",
+    "Revenues ($M)":6067,
+    "Profits ($M)":"418.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":463,
+    "title":"S& P Global",
+    "Revenues ($M)":6063,
+    "Profits ($M)":"1496"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5063739,37.665978 ]
+    },
+    "properties": {
+    "rank":464,
+    "title":"Markel",
+    "Revenues ($M)":6062,
+    "Profits ($M)":"395.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9179173,41.4553232 ]
+    },
+    "properties": {
+    "rank":465,
+    "title":"TravelCenters of America",
+    "Revenues ($M)":6052,
+    "Profits ($M)":"9.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3882072,40.787878 ]
+    },
+    "properties": {
+    "rank":466,
+    "title":"Conduent",
+    "Revenues ($M)":6022,
+    "Profits ($M)":"181"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8783689,42.8864468 ]
+    },
+    "properties": {
+    "rank":467,
+    "title":"M& T Bank Corp.",
+    "Revenues ($M)":6019,
+    "Profits ($M)":"1408.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2711137,37.8043637 ]
+    },
+    "properties": {
+    "rank":468,
+    "title":"Clorox",
+    "Revenues ($M)":5973,
+    "Profits ($M)":"701"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":469,
+    "title":"AmTrust Financial Services",
+    "Revenues ($M)":5959,
+    "Profits ($M)":"-348.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":470,
+    "title":"KKR",
+    "Revenues ($M)":5930,
+    "Profits ($M)":"1018.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0683955,41.6986416 ]
+    },
+    "properties": {
+    "rank":471,
+    "title":"Ulta Beauty",
+    "Revenues ($M)":5885,
+    "Profits ($M)":"555.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7584557,38.2526647 ]
+    },
+    "properties": {
+    "rank":472,
+    "title":"Yum Brands",
+    "Revenues ($M)":5878,
+    "Profits ($M)":"1340"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8587461,41.0762077 ]
+    },
+    "properties": {
+    "rank":473,
+    "title":"Regeneron Pharmaceuticals",
+    "Revenues ($M)":5872,
+    "Profits ($M)":"1198.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.2895948,34.7464809 ]
+    },
+    "properties": {
+    "rank":474,
+    "title":"Windstream Holdings",
+    "Revenues ($M)":5853,
+    "Profits ($M)":"-2116.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9260519,33.4941704 ]
+    },
+    "properties": {
+    "rank":475,
+    "title":"Magellan Health",
+    "Revenues ($M)":5838,
+    "Profits ($M)":"110.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5120196,39.1031182 ]
+    },
+    "properties": {
+    "rank":476,
+    "title":"Western & Southern Financial",
+    "Revenues ($M)":5836,
+    "Profits ($M)":"310.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3879824,33.7489954 ]
+    },
+    "properties": {
+    "rank":477,
+    "title":"Intercontinental Exchange",
+    "Revenues ($M)":5834,
+    "Profits ($M)":"2514"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8806738,41.8498339 ]
+    },
+    "properties": {
+    "rank":478,
+    "title":"Ingredion",
+    "Revenues ($M)":5832,
+    "Profits ($M)":"519"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.4173877,40.8652865 ]
+    },
+    "properties": {
+    "rank":479,
+    "title":"Wyndham Destinations",
+    "Revenues ($M)":5821,
+    "Profits ($M)":"871"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1285061,40.1784422 ]
+    },
+    "properties": {
+    "rank":480,
+    "title":"Toll Brothers",
+    "Revenues ($M)":5815,
+    "Profits ($M)":"535.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.6935701,39.0236165 ]
+    },
+    "properties": {
+    "rank":481,
+    "title":"Seaboard",
+    "Revenues ($M)":5809,
+    "Profits ($M)":"247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1772604,38.9338676 ]
+    },
+    "properties": {
+    "rank":482,
+    "title":"Booz Allen Hamilton",
+    "Revenues ($M)":5804,
+    "Profits ($M)":"252.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.867653,33.7454725 ]
+    },
+    "properties": {
+    "rank":483,
+    "title":"First American Financial",
+    "Revenues ($M)":5772,
+    "Profits ($M)":"423"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5603187,39.3454673 ]
+    },
+    "properties": {
+    "rank":484,
+    "title":"Cincinnati Financial",
+    "Revenues ($M)":5732,
+    "Profits ($M)":"1045"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6837399,40.9806535 ]
+    },
+    "properties": {
+    "rank":485,
+    "title":"Avon Products",
+    "Revenues ($M)":5716,
+    "Profits ($M)":"22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "rank":486,
+    "title":"Northern Trust",
+    "Revenues ($M)":5716,
+    "Profits ($M)":"1199"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.1064787,43.0605671 ]
+    },
+    "properties": {
+    "rank":487,
+    "title":"Fiserv",
+    "Revenues ($M)":5696,
+    "Profits ($M)":"1246"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9064736,43.0389025 ]
+    },
+    "properties": {
+    "rank":488,
+    "title":"Harley-Davidson",
+    "Revenues ($M)":5647,
+    "Profits ($M)":"521.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":489,
+    "title":"Cheniere Energy",
+    "Revenues ($M)":5601,
+    "Profits ($M)":"-393"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0899578,44.9537029 ]
+    },
+    "properties": {
+    "rank":490,
+    "title":"Patterson",
+    "Revenues ($M)":5593,
+    "Profits ($M)":"170.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1994042,38.6270025 ]
+    },
+    "properties": {
+    "rank":491,
+    "title":"Peabody Energy",
+    "Revenues ($M)":5579,
+    "Profits ($M)":"-"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0740373,33.4483771 ]
+    },
+    "properties": {
+    "rank":492,
+    "title":"ON Semiconductor",
+    "Revenues ($M)":5543,
+    "Profits ($M)":"810.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.158068,39.768403 ]
+    },
+    "properties": {
+    "rank":493,
+    "title":"Simon Property Group",
+    "Revenues ($M)":5539,
+    "Profits ($M)":"1948"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9877597,39.6477653 ]
+    },
+    "properties": {
+    "rank":494,
+    "title":"Western Union",
+    "Revenues ($M)":5524,
+    "Profits ($M)":"-557.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0363496,37.36883 ]
+    },
+    "properties": {
+    "rank":495,
+    "title":"NetApp",
+    "Revenues ($M)":5519,
+    "Profits ($M)":"509"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.5824586,45.0352411 ]
+    },
+    "properties": {
+    "rank":496,
+    "title":"Polaris Industries",
+    "Revenues ($M)":5505,
+    "Profits ($M)":"172.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.9488945,32.8140177 ]
+    },
+    "properties": {
+    "rank":497,
+    "title":"Pioneer Natural Resources",
+    "Revenues ($M)":5455,
+    "Profits ($M)":"833"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":498,
+    "title":"ABM Industries",
+    "Revenues ($M)":5454,
+    "Profits ($M)":"3.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.9488945,32.8140177 ]
+    },
+    "properties": {
+    "rank":499,
+    "title":"Vistra Energy",
+    "Revenues ($M)":5430,
+    "Profits ($M)":"-254"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5120196,39.1031182 ]
+    },
+    "properties": {
+    "rank":500,
+    "title":"Cintas",
+    "Revenues ($M)":5429,
+    "Profits ($M)":"480.7"
+    }
+  }
+]
+}
