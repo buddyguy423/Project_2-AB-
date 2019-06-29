@@ -1,11 +1,11 @@
 import numpy as np
 import pandas as pd
-
+import os
 from flask import (
     Flask,
     render_template,
     jsonify)
-
+import json
 import sqlite3
 
 app = Flask(__name__)
@@ -58,7 +58,7 @@ def viz3():
     return render_template('map3.html')
 
 @app.route("/viz3data")
-def emoji_id_data():
+def viz3data():
     conn = sqlite3.connect("db/fortune500.db")
     cur = conn.cursor()
     cur.execute("SELECT * from fortune500_table;")
@@ -74,6 +74,13 @@ def emoji_id_data():
     #}
 	
     return jsonify(results)
+
+@app.route('/geojson')
+def geoJson():
+    SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+    json_url = os.path.join(SITE_ROOT, "db/Fortune_500_v2.geojson")
+    data = json.load(open(json_url))
+    return jsonify(data)
 
 @app.route("/revenues_by_sector")
 def rev_industry_data():
