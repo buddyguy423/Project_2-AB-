@@ -13,7 +13,7 @@ console.log("YAY");
     // Give each feature a popup describing the place and time of the earthquake
     function onEachFeature(feature, layer) {
       layer.bindPopup("<h3>" + feature.properties.title +
-        "</h3><hr><p> Profits: $" + (feature.properties.Profits) + "</p>");
+        "</h3><hr><p> Profits (in $M): $" + (feature.properties.Profits) + "</p>");
     }
   
   // Create a GeoJSON layer containing the features array on the earthquakeData object
