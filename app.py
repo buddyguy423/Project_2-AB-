@@ -12,15 +12,6 @@ app = Flask(__name__)
 
 
 
-conn = sqlite3.connect("db/fortune.db")
-
-# Create database tables
-#@app.before_first_request
-#def setup():
-#    # Recreate database each time for demo
-#    # db.drop_all()
-#    db.create_all()
-
 
 @app.route("/")
 def home():
@@ -31,54 +22,15 @@ def home():
 def viz2():    
     return render_template('map2.html')
 
-
-@app.route("/viz2data")
-def emoji_char_data():
-    conn = sqlite3.connect("db/fortune500.db")
-    cur = conn.cursor()
-    cur.execute("SELECT * from fortune500_table;")
-    results = cur.fetchall()
-	
-    # Create lists from the query results
-    names = [result[2] for result in results]
-    profits = [result[4] for result in results]
-
-    # Generate the plot trace
-    trace = {
-       "x": names,
-        "y": profits,
-        "type": "bar"
-    }
-#we need to return json data here for D3 to pick up 
-    return jsonify(trace)
-
-
 @app.route("/viz3")
 def viz3():
     return render_template('map3.html')
 
-@app.route("/viz3data")
-def viz3data():
-    conn = sqlite3.connect("db/fortune500.db")
-    cur = conn.cursor()
-    cur.execute("SELECT * from fortune500_table;")
-    results = cur.fetchall()
-    #df = pd.DataFrame(results, columns=['emoji_id', 'score'])
-
-
-    # Format the data for Plotly
-    #trace = {
-    #    "x": df["emoji_id"].values.tolist(),
-    #    "y": df["score"].values.tolist(),
-    #    "type": "bar"
-    #}
-	
-    return jsonify(results)
 
 @app.route('/geojson')
 def geoJson():
     SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
-    json_url = os.path.join(SITE_ROOT, "db/Fortune_500_v2.geojson")
+    json_url = os.path.join(SITE_ROOT, "db/fortune_500_v3.geojson")
     data = json.load(open(json_url))
     return jsonify(data)
 

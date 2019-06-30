@@ -1,65 +1,67 @@
-// //creating the base layer 
+console.log("YAY");
+  d3.json("/geojson", function(data) {
+    console.log("something");
+    console.log(data);
+    // Once we get a response, send the data.features object to the createFeatures function
+    //createFeatures(data.features);
+    createFeatures(data.features);
+  });
 
-// L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-// 	attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
-// 	maxZoom: 16,
-// 	id: "mapbox.streets",
-//   	accessToken: API_KEY
-// }).addTo(map);
+  function createFeatures(profitData) {
 
-D3.json("/geojson")
-  .then(function(geojson){
-    let Markers = []
-    // Loop through data and create markers
-    for (var i = 0; i < geojson.length; i++) {
-      // Setting the marker radius for the state by passing population into the markerSize function
-      Markers.push(
-        L.circle(geojson[i].geometry.coordinates, {
-          stroke: false,
-          fillOpacity: 0.75,
-          color: "white",
-          fillColor: "white",
-          radius: markerSize(geojson[i].properties.Revenues)
-        })
-      )};
+    // Define a function we want to run once for each feature in the features array
+    // Give each feature a popup describing the place and time of the earthquake
+    function onEachFeature(feature, layer) {
+      layer.bindPopup("<h3>" + feature.properties.title +
+        "</h3><hr><p> Profits (in $M): $" + (feature.properties.Profits) + "</p>");
+    }
+  
+  // Create a GeoJSON layer containing the features array on the earthquakeData object
+  // Run the onEachFeature function once for each piece of data in the array
+  var profits = L.geoJSON(profitData, {
+    onEachFeature: onEachFeature 
 
-    // Define variables for our base layers
-    var streetmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-      attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
-      maxZoom: 18,
-      id: "mapbox.streets",
-      accessToken: API_KEY
-    });
+  });
 
-    var darkmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-      attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
-      maxZoom: 18,
-      id: "mapbox.dark",
-      accessToken: API_KEY
-    });
 
-    // Create a baseMaps object
-    var baseMaps = {
-      "Street Map": streetmap,
-      "Dark Map": darkmap
-    };
+  // Sending our revenue layer to the createMap function
+  createMap(profits);
+}
 
-    var circles = L.layerGroup(Markers);
+function createMap(profits) {
 
-    // Creating map object
-    var map = L.map("map", {
-      center: [37.0902, -95.7129],
-      zoom: 16,
-      layers: [streetmap, circles]
-    });
+  var streetmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
+    attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
+    maxZoom: 18,
+    id: "mapbox.streets",
+    accessToken: API_KEY
+  });
 
-    L.control.layers(baseMaps, {
-      collapsed: false
-    }).addTo(map);
 
-    var mapBounds = L.latLngBounds([
-      [25.82, -124.39],
-      [49.38, -66.27]
-    ]);
+  // Define a baseMaps object to hold our base layers
+  var baseMaps = {
+    "Street Map": streetmap
+  };
 
-    map.fitBounds(mapBounds)});
+  // Create overlay object to hold our overlay layer
+  var overlayMaps = {
+    Profits: profits
+
+  };
+
+  // Create our map, giving it the streetmap and earthquakes layers to display on load
+  var myMap = L.map("map", {
+    center: [
+      37.09, -95.71
+    ],
+    zoom: 5,
+    layers: [streetmap, profits]
+  });
+
+  // Create a layer control
+  // Pass in our baseMaps and overlayMaps
+  // Add the layer control to the map
+  L.control.layers(baseMaps, overlayMaps, {
+    collapsed: false
+  }).addTo(myMap);
+}
